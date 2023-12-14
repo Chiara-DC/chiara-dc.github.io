@@ -1,16 +1,21 @@
 import { useState } from "react";
-import "./styles/Home.css";
-import Navbar from "./components/Navbar";
+import "../styles/Home.css";
 
 function Photography() {
   const [count, setCount] = useState(0);
 
   return (
     <>
-      <Navbar />
       <div className="text">
-        <h1>Photography</h1>
-        <p>
+        <h1>Photography</h1>I have been an enthusiastic amateur photographer for
+        many years, with experience photographing cityscapes, landscapes,
+        wildlife, and macro photography (as well as occasional portrait photos
+        for friends and family members). I currently use a Sony DLSR camera, and
+        my portfolio can be found{" "}
+        <a href="https://drive.google.com/file/d/1hTUZljMPPEmvEf9DuFZ0rIfoinZsykSa/view?usp=sharing">
+          here!
+        </a>
+        {/* <p>
           Scientist, developer, and amateur photographer. Scientist, developer,
           and amateur photographer Scientist, developer, and amateur
           photographer Scientist, developer, and amateur photographerScientist,
@@ -37,7 +42,7 @@ function Photography() {
         <h1>Highlights</h1>
       </div>
       <div className="text">
-        <h1>Nature Photography</h1>
+        <h1>Nature Photography</h1> */}
       </div>
     </>
   );

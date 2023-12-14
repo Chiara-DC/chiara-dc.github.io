@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./Home.jsx";
-import Photography from "./Photography.jsx";
+import Photography from "./components/Photography.jsx";
 import "./styles/index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route exact path="/about" element={<Home />} />
-        <Route exact path="/photography" element={<Photography />} />
+        <Route exact path="/photography" element={<Home />} />
         <Route path="*" element={<Home />} />
         {/* <Route path="/blog/:blogId" element={<Blog />} /> */}
       </Routes>

@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./styles/Home.css";
 import Navbar from "../src/components/Navbar";
+import Photography from "./components/Photography";
 
 function Home() {
   const [count, setCount] = useState(0);
@@ -38,6 +39,7 @@ function Home() {
           Scientist, developer, and amateur photographer.
         </p>
       </div>
+      <Photography />
     </>
   );
 }
