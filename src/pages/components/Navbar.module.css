@@ -1,0 +1,35 @@
+nav {
+  background-color: #feb729;
+  color: #0c265a;
+  padding: 19px;
+  font-weight: bold;
+  display: flex;
+
+  /* BORDER STUFF - TBC? */
+  /* border-bottom: #0c265a; */
+  border-bottom: #d99d25;
+  border-bottom-style: solid;
+  border-width: 1px;
+  /* options - 1px, 2px? poss 5, depending on vibe*/
+}
+
+a {
+  color: inherit;
+  padding-right: 38px;
+  text-decoration: none;
+}
+
+.title {
+  padding-left: 60px;
+  flex-grow: 1;
+}
+
+@media screen and (max-width: 720px) {
+  .text {
+    display: none;
+  }
+  .title {
+    padding-left: 30px;
+    flex-grow: inherit;
+  }
+}
