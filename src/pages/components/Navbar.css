@@ -19,16 +19,16 @@ a {
   text-decoration: none;
 }
 
-.title {
+.navtitle {
   padding-left: 60px;
   flex-grow: 1;
 }
 
 @media screen and (max-width: 720px) {
-  .text {
+  .navtext {
     display: none;
   }
-  .title {
+  .navtitle {
     padding-left: 30px;
     flex-grow: inherit;
   }

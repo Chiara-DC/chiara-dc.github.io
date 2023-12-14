@@ -1,25 +1,25 @@
-import navstyle from "./Navbar.module.css";
+import navstyle from "./Navbar.css";
 import * as React from "react"
 
 export default function Navbar() {
   return (
     <>
       <nav>
-        <a className={navstyle.title} href="/">
+        <a className=".navtitle" href="/">
           Chiara DC
         </a>
-        <a className={navstyle.text} href="/">
+        <a className=".navtext" href="/">
           About
         </a>
 
-        <a className={navstyle.text} href="/photography">
+        <a className=".navtext" href="/photography">
           Photography
         </a>
 
-        <a className={navstyle.text} href="/">
+        <a className=".navtext" href="/">
           Contact
         </a>
       </nav>
     </>
   );
-}
+  }
