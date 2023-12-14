@@ -1,7 +1,7 @@
 import { useState } from "react";
 import * as React from "react"
-import "./styles/Index.css";
-import "./styles/Home.css";
+import "./styles/index.css";
+import "./styles/home.css";
 import Navbar from "./components/Navbar";
 
 function Photography() {
