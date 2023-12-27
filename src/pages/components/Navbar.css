@@ -9,7 +9,7 @@ nav {
   /* border-bottom: #0c265a; */
   border-bottom: #d99d25;
   border-bottom-style: solid;
-  border-width: 1px;
+  border-width: 2px;
   /* options - 1px, 2px? poss 5, depending on vibe*/
 }
 
@@ -24,12 +24,18 @@ a {
   flex-grow: 1;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 480px) {
   .navtext {
     display: none;
   }
-  .navtitle {
-    padding-left: 30px;
+
+  a {
+    display: none;
+  }
+
+  a .navtitle {
+    padding-left: 12;
     flex-grow: inherit;
+    display: flex;
   }
 }

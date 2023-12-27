@@ -44,4 +44,6 @@ function Photography() {
   );
 }
 
-export default Photography;
+export default Photography
+
+export const Head = () => <title>Photography - Chiara DC</title>

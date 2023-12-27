@@ -5,18 +5,18 @@ export default function Navbar() {
   return (
     <>
       <nav>
-        <a className=".navtitle" href="/">
+        <a className="navtitle" href="/">
           Chiara DC
         </a>
-        <a className=".navtext" href="/">
+        <a className="navtext" href="/#about">
           About
         </a>
 
-        <a className=".navtext" href="/photography">
+        <a className="navtext" href="/#photography">
           Photography
         </a>
 
-        <a className=".navtext" href="/">
+        <a className="navtext" href="/#contact">
           Contact
         </a>
       </nav>
