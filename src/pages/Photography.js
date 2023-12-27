@@ -1,4 +1,4 @@
-import * as React from "react"
+import * as React from "react";
 import { useState } from "react";
 import "./styles/index.css";
 import Navbar from "./components/Navbar";
@@ -44,6 +44,6 @@ function Photography() {
   );
 }
 
-export default Photography
+export default Photography;
 
-export const Head = () => <title>Photography - Chiara DC</title>
+export const Head = () => <title>Photography - Chiara DC</title>;

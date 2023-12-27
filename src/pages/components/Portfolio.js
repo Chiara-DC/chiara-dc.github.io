@@ -39,7 +39,21 @@ export default function Portfolio() {
             src="https://www.dropbox.com/scl/fi/e73zyzx8gu59stw7p0x5u/DSC08527.jpeg?rlkey=uixfby1jd7xyzssuwf8cyeluy&raw=1"
             width="100%"
           />
+          <img
+            src="https://www.dropbox.com/scl/fi/1tqktb3cdd402bi2fouc0/IMG_7121.jpeg?rlkey=wx9omd73ia7h4j25fhye7l85n&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/gji1fy4wbnvlqimmw95rk/IMG_4412.jpeg?rlkey=fx76bcw8nlspzgyikwkyfxawq&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/lnhhwixtdugme6y8xht8m/DSC01000.jpg?rlkey=q80belnbs4s0mm0qunqp1p40m&raw=1"
+            width="100%"
+          />
+          <img src="/" width="100%" />
         </div>
+
         <div class="column">
           <img
             src="https://www.dropbox.com/scl/fi/rfymftn2aypmdwl5xvseu/B0E4C7D5-2C77-46BD-80CF-970528D0DB29.jpeg?rlkey=th5ukvxiw8x9nfh48zy7edwt7&raw=1"
@@ -65,6 +79,30 @@ export default function Portfolio() {
             src="https://www.dropbox.com/scl/fi/cwbx5bcl9g8imuwqod09u/IMG_7071.jpeg?rlkey=euf7jr90lx7zewcp128n48d6q&raw=1"
             width="100%"
             alt="Cambridge Christmas Lights, Botanical Gardens"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/j73srjpkb34kogj0ciseh/DSC09257.jpeg?rlkey=4d4irah5a9k2hbb3rwrxqpk3z&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/y4nb4smxf1p27fta6mrww/IMG_0360.jpeg?rlkey=zpg8tecpiowksm06t8czmywz0&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/ulgwctx96rnadyfhw8har/DSC09395.jpeg?rlkey=l7cogrbhd3xun4qm9nwxkcfhh&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/3t5c7f1zpjt8ep41mtrzq/DSC09291.jpeg?rlkey=q3fbh0a5326nfekvmdivi2w2o&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/0w0mkj2jat2317qljcnqh/DSC01009.jpg?rlkey=g2bdv78h78wgnba60eo232rua&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/9a9yunwgx1bqeoimwuza9/DSC00813.jpg?rlkey=rdqzp5qw9dc1pmjc95d0zhe20&raw=1"
+            width="100%"
           />
         </div>
 
@@ -93,9 +131,29 @@ export default function Portfolio() {
             width="100%"
           />
 
-          <img src="/w3images/nature.jpg" />
-          <img src="/w3images/mist.jpg" />
-          <img src="/w3images/paris.jpg" />
+          <img
+            src="https://www.dropbox.com/scl/fi/wsayjpt2t7jmd2k0vgqtt/DSC08529.jpeg?rlkey=3dbl1wqmt0kzbmvhpvp0gczy0&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/enhsmo83x6m2gc3q5jfgj/DSC08416.jpeg?rlkey=ferfmc5klrk0vypelqptkace3&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/3izod1dq2sdspt08wrq5w/DSC09477.jpeg?rlkey=y3yh01y65olktdickhu57dqil&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/zkrevh77uneuhduhno1kd/IMG_0775.jpeg?rlkey=bgeac2yrnfkf5scx44myymqof&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/0i0at2t41bor952zux6yy/DSC00718.jpg?rlkey=m7pfd1xa7umb9nad52xmvadmh&raw=1"
+            width="100%"
+          />
+          <img src="/" width="100%" />
+          <img src="/" width="100%" />
+          <img src="/" width="100%" />
         </div>
       </div>
     </>
