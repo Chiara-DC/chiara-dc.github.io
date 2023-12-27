@@ -51,7 +51,14 @@ export default function Portfolio() {
             src="https://www.dropbox.com/scl/fi/lnhhwixtdugme6y8xht8m/DSC01000.jpg?rlkey=q80belnbs4s0mm0qunqp1p40m&raw=1"
             width="100%"
           />
-          <img src="/" width="100%" />
+          <img
+            src="https://www.dropbox.com/scl/fi/fy0gx7wm38wtxkv63q35j/DSC00678.jpg?rlkey=yje3d2q5nnwd06v4nofa90ofm&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/ev40ojgjd8lsmkx2mc1wu/DSC08769.jpeg?rlkey=cm6xz9qjxhtj7scnr0r1e0tgq&raw=1"
+            width="100%"
+          />
         </div>
 
         <div class="column">
@@ -101,7 +108,7 @@ export default function Portfolio() {
             width="100%"
           />
           <img
-            src="https://www.dropbox.com/scl/fi/9a9yunwgx1bqeoimwuza9/DSC00813.jpg?rlkey=rdqzp5qw9dc1pmjc95d0zhe20&raw=1"
+            src="https://www.dropbox.com/scl/fi/x6mw1se9izbqd90hvmybw/DSC00156.jpg?rlkey=8qjiet4dsnmcc2mm5jal4dcya&raw=1"
             width="100%"
           />
         </div>
@@ -151,9 +158,14 @@ export default function Portfolio() {
             src="https://www.dropbox.com/scl/fi/0i0at2t41bor952zux6yy/DSC00718.jpg?rlkey=m7pfd1xa7umb9nad52xmvadmh&raw=1"
             width="100%"
           />
-          <img src="/" width="100%" />
-          <img src="/" width="100%" />
-          <img src="/" width="100%" />
+          <img
+            src="https://www.dropbox.com/scl/fi/99az41oowrdo4ecfqv6f6/DSC00896.jpg?rlkey=ripljlzddsx5jh6e1ocspwhl1&raw=1"
+            width="100%"
+          />
+          <img
+            src="https://www.dropbox.com/scl/fi/u95zgtj0hvb42vwhknb51/DSC08744.jpeg?rlkey=h8es1ych83h0eikge939ukuiu&raw=1"
+            width="100%"
+          />
         </div>
       </div>
     </>
