@@ -29,11 +29,7 @@ a {
     display: none;
   }
 
-  a {
-    display: none;
-  }
-
-  a .navtitle {
+  .navtitle {
     padding-left: 12;
     flex-grow: inherit;
     display: flex;
