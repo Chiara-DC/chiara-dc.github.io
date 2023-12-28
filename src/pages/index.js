@@ -8,7 +8,7 @@ const IndexPage = () => {
     <>
       <Navbar />
       <div className="home">
-        <svg
+        {/* <svg
           className="svgimage"
           width="304"
           height="304"
@@ -17,17 +17,17 @@ const IndexPage = () => {
           xmlns="http://www.w3.org/2000/svg"
         >
           <circle cx="152" cy="152" r="152" fill="#0C265A" />
-        </svg>
-        {/* <img
+        </svg> */}
+        <img
           src="https://www.dropbox.com/scl/fi/i7s3jzdhov0fnqjc9p3hd/chiara.svg?rlkey=8lv4opvcrvl7t140fk9ahan1y&raw=1"
           width="400"
           height="400"
-          alt="Photo of Chiara DC"
+          alt="Chiara DC"
           className="svgimage"
-        /> */}
+        />
         <div className="title">
           <h1 className="name">Chiara DC</h1>
-          <h2 className="">Scientist, developer, and amateur photographer</h2>
+          <h2 className="">Scientist, developer, and photographer</h2>
         </div>
       </div>
       <div className="text">
