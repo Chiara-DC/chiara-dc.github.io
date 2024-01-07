@@ -13,16 +13,18 @@ const imageColumn1 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/s1sk49fklcz91lc8lk096/Venice-sunset.jpeg?rlkey=5qhsvgwtp4bnzz1z1vfe32ao8&raw=1",
+    url: "https://www.dropbox.com/scl/fi/l1y0phwx1le6ypdmmjgq5/Venice-sunset.jpg?rlkey=vohzipp9sxfjnovlbznj95gay&raw=1",
     alt: "Sunset, Venice",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/a0lel0d2bkgk21xy5mvav/8CE00B79-9434-433C-A9A8-8F1139149ACE.jpeg?rlkey=fgibqklmrewew3dhq676vx59w&raw=1",
     alt: "Chinatown, New York City",
   },
   {
-    url: "https://www.dropbox.com/scl/fi/qp6lf5k72tvoy14bk64lo/IMG_5249-1.jpeg?rlkey=sux3erqxakktoma2oq14bigzf&raw=1",
+    url: "https://www.dropbox.com/scl/fi/k39fckpi6dgm2slir2yiu/IMG_5249.jpg?rlkey=dad68sgv420pph6yq4sbo8omy&raw=1",
     alt: "Side view of King's College Chapel, Cambridge",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/kfcu9mmgia6ctevedrssb/DSC08530.jpeg?rlkey=n0cuagfiycjwlyhjrm5bggugs&raw=1",
@@ -47,7 +49,7 @@ const imageColumn1 = [
   },
   {
     url: "https://www.dropbox.com/scl/fi/fy0gx7wm38wtxkv63q35j/DSC00678.jpg?rlkey=yje3d2q5nnwd06v4nofa90ofm&raw=1",
-    alt: "Man speaking at the Cambridgge Union, from behind",
+    alt: "Man speaking at the Cambridge Union, from behind",
   },
   {
     url: "https://www.dropbox.com/scl/fi/ev40ojgjd8lsmkx2mc1wu/DSC08769.jpeg?rlkey=cm6xz9qjxhtj7scnr0r1e0tgq&raw=1",
@@ -62,20 +64,24 @@ const imageColumn2 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/vg17lf34sd8rzdbuht2ph/IMG_1469.jpeg?rlkey=7y8eyfy2eq0eri2eyx8et8jj3&raw=1",
+    url: "https://www.dropbox.com/scl/fi/rbanyanjw4wtrt4prlkzn/IMG_1469.jpg?rlkey=ohrt5apkdechsbsx6jewf1ylb&raw=1",
     alt: "Pride flag from High Line, New York City",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/1taons9hznlo2wldndnlc/Street-with-car.jpeg?rlkey=r5caj0r80kyeri5epa09kucwu&raw=1",
+    url: "https://www.dropbox.com/scl/fi/241yt0l7l9hl8usn90ptc/Street-with-car.jpg?rlkey=biwzmzyd4ul3b589ws3ubhnbr&raw=1",
     alt: "Car in St Petersburg",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/lx0l3rk5s0kmdgkpg8jnc/IMG_8791-1.jpeg?rlkey=6ombx02fbd5qa44g7uj8w3qwg&raw=1",
+    url: "https://www.dropbox.com/scl/fi/xud0vwo0ckfwpogcv5f97/IMG_8791-1.jpg?rlkey=3bfa11ay7c6cjgiyc4a785svw&raw=1",
     alt: "View from Garrett Hostel Bridge, Cambridge",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/cwbx5bcl9g8imuwqod09u/IMG_7071.jpeg?rlkey=euf7jr90lx7zewcp128n48d6q&raw=1",
+    url: "https://www.dropbox.com/scl/fi/w085k6zuv500gdz8wzna3/IMG_7071.jpg?rlkey=s1e8p0m8k806783zt8b9s1sc4&raw=1",
     alt: "Cambridge Christmas Lights, Botanical Gardens",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/j73srjpkb34kogj0ciseh/DSC09257.jpeg?rlkey=4d4irah5a9k2hbb3rwrxqpk3z&raw=1",
@@ -116,8 +122,9 @@ const imageColumn3 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/0l0ut1iq70a6r980s39cc/IMG_2548.jpeg?rlkey=cmza8x1j3m5mjhea8s94ms7tm&raw=1",
+    url: "https://www.dropbox.com/scl/fi/i6uy1va5g7bo65km7735c/IMG_2548.jpg?rlkey=2mmecrurjcer0hn401qsq9orz&raw=1",
     alt: "Harbour with boats, Sitges",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/ki2nv5b7o4fmbnaz5h8yx/IMG_5543.jpg?rlkey=ffyn245izg1glr9yfehmfpng6&raw=1",
@@ -125,8 +132,9 @@ const imageColumn3 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/tmd1vsr71uk9zl6hh9mci/IMG_3001.jpeg?rlkey=spvrcbbtdsk34vq5ryiwpq6k4&raw=1",
+    url: "https://www.dropbox.com/scl/fi/n4mr57qwcrnlhc5mrj796/IMG_3001.jpg?rlkey=d3x5zlqeqliwpre6uz196kxqr&raw=1",
     alt: "Sunset over Christ's College, Cambridge",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/wsayjpt2t7jmd2k0vgqtt/DSC08529.jpeg?rlkey=3dbl1wqmt0kzbmvhpvp0gczy0&raw=1",
@@ -209,6 +217,46 @@ const fullsizeimages = [
   {
     url: "https://www.dropbox.com/scl/fi/7ojtgu6hprzxobl9k3f0q/12EF6AC8-2116-4088-BBC3-EC4147D3DB28.jpeg?rlkey=x4ru5swnd8gyu8g6092ux83hk&raw=1",
     alt: "Road, New York City",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/s1sk49fklcz91lc8lk096/Venice-sunset.jpeg?rlkey=5qhsvgwtp4bnzz1z1vfe32ao8&raw=1",
+    alt: "Sunset, Venice",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/1taons9hznlo2wldndnlc/Street-with-car.jpeg?rlkey=r5caj0r80kyeri5epa09kucwu&raw=1",
+    alt: "Car in St Petersburg",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/vg17lf34sd8rzdbuht2ph/IMG_1469.jpeg?rlkey=7y8eyfy2eq0eri2eyx8et8jj3&raw=1",
+    alt: "Pride flag from High Line, New York City",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/0l0ut1iq70a6r980s39cc/IMG_2548.jpeg?rlkey=cmza8x1j3m5mjhea8s94ms7tm&raw=1",
+    alt: "Harbour with boats, Sitges",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/cwbx5bcl9g8imuwqod09u/IMG_7071.jpeg?rlkey=euf7jr90lx7zewcp128n48d6q&raw=1",
+    alt: "Cambridge Christmas Lights, Botanical Gardens",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/lx0l3rk5s0kmdgkpg8jnc/IMG_8791-1.jpeg?rlkey=6ombx02fbd5qa44g7uj8w3qwg&raw=1",
+    alt: "View from Garrett Hostel Bridge, Cambridge",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/qp6lf5k72tvoy14bk64lo/IMG_5249-1.jpeg?rlkey=sux3erqxakktoma2oq14bigzf&raw=1",
+    alt: "Side view of King's College Chapel, Cambridge",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/tmd1vsr71uk9zl6hh9mci/IMG_3001.jpeg?rlkey=spvrcbbtdsk34vq5ryiwpq6k4&raw=1",
+    alt: "Sunset over Christ's College, Cambridge",
     compressed: false,
   },
 ];
