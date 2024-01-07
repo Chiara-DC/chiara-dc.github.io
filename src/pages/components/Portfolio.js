@@ -3,12 +3,14 @@ import * as React from "react";
 
 const imageColumn1 = [
   {
-    url: "https://www.dropbox.com/scl/fi/97pbjfgyuzoczv2h5ze10/IMG_1429.jpeg?rlkey=khql82gwn4zk0huaem59uw7oa&raw=1",
+    url: "https://www.dropbox.com/scl/fi/40sigwrzrvr5q52g9qezd/IMG_1429.jpg?rlkey=ufgcphx7bdsj5p3584g86a2id&raw=1",
     alt: "Skyview, New York City",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/7ojtgu6hprzxobl9k3f0q/12EF6AC8-2116-4088-BBC3-EC4147D3DB28.jpeg?rlkey=x4ru5swnd8gyu8g6092ux83hk&raw=1",
+    url: "https://www.dropbox.com/scl/fi/r6j2y1owqib4hveqoneyt/12EF6AC8-2116-4088-BBC3-EC4147D3DB28.jpg?rlkey=y8ay40vb1a51k4b3cgaejcw36&raw=1",
     alt: "Road, New York City",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/s1sk49fklcz91lc8lk096/Venice-sunset.jpeg?rlkey=5qhsvgwtp4bnzz1z1vfe32ao8&raw=1",
@@ -27,8 +29,9 @@ const imageColumn1 = [
     alt: "Two goldfish swimming",
   },
   {
-    url: "https://www.dropbox.com/scl/fi/e73zyzx8gu59stw7p0x5u/DSC08527.jpeg?rlkey=uixfby1jd7xyzssuwf8cyeluy&raw=1",
+    url: "https://www.dropbox.com/scl/fi/twb6guprbrgnl0t9eeiob/DSC08527.jpg?rlkey=nnpp0p7svrlfswil439jl1u2p&raw=1",
     alt: "Purple jellyfish",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/1tqktb3cdd402bi2fouc0/IMG_7121.jpeg?rlkey=wx9omd73ia7h4j25fhye7l85n&raw=1",
@@ -54,8 +57,9 @@ const imageColumn1 = [
 
 const imageColumn2 = [
   {
-    url: "https://www.dropbox.com/scl/fi/rfymftn2aypmdwl5xvseu/B0E4C7D5-2C77-46BD-80CF-970528D0DB29.jpeg?rlkey=th5ukvxiw8x9nfh48zy7edwt7&raw=1",
+    url: "https://www.dropbox.com/scl/fi/si715piysme945tikmrby/B0E4C7D5-2C77-46BD-80CF-970528D0DB29.jpg?rlkey=jg5uppryvcu3xbxbq22klqvy6&raw=1",
     alt: "View with Binoculars, New York City",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/vg17lf34sd8rzdbuht2ph/IMG_1469.jpeg?rlkey=7y8eyfy2eq0eri2eyx8et8jj3&raw=1",
@@ -94,27 +98,31 @@ const imageColumn2 = [
     alt: "Headshot of a speaker at the Cambridge Union",
   },
   {
-    url: "https://www.dropbox.com/scl/fi/x6mw1se9izbqd90hvmybw/DSC00156.jpg?rlkey=8qjiet4dsnmcc2mm5jal4dcya&raw=1",
+    url: "https://www.dropbox.com/scl/fi/a9pmxw3nano40lpy5dt9u/DSC00156.jpg?rlkey=lsbm8fz2rtyddxsuoagosq3o9&raw=1",
     alt: "Point of information, Cambridge Union",
+    compressed: true,
   },
 ];
 
 const imageColumn3 = [
   {
-    url: "https://www.dropbox.com/scl/fi/966ut30oczjxgclnqaz1h/IMG_1179.jpeg?rlkey=aa7a52rt1juagxg6ownpi909w&raw=1",
+    url: "https://www.dropbox.com/scl/fi/3r9cswsh613a6tob3wqq4/IMG_1179.jpg?rlkey=bn887q2mlvqyq1mudyef4a67w&raw=1",
     alt: "New York City street, near Carnegie Hall",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/lwmb6tfzuavgff1f2xjs6/IMG_1473.jpeg?rlkey=xyuxqqpg8976h1qtscz32hmal&raw=1",
+    url: "https://www.dropbox.com/scl/fi/uiugijuv9zt99q9vmpkjo/IMG_1473.jpg?rlkey=v6sqxhtp2qcwtrvypwgq3i78w&raw=1",
     alt: "Emergency Call Box, New York City",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/0l0ut1iq70a6r980s39cc/IMG_2548.jpeg?rlkey=cmza8x1j3m5mjhea8s94ms7tm&raw=1",
     alt: "Harbour with boats, Sitges",
   },
   {
-    url: "https://www.dropbox.com/scl/fi/r3jefg0pw3d0dxp8vb45m/IMG_5543.jpeg?rlkey=4n6e0x2ngrdkz6pohq0zzmz3c&raw=1",
+    url: "https://www.dropbox.com/scl/fi/ki2nv5b7o4fmbnaz5h8yx/IMG_5543.jpg?rlkey=ffyn245izg1glr9yfehmfpng6&raw=1",
     alt: "West Hub, Cambridge",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/tmd1vsr71uk9zl6hh9mci/IMG_3001.jpeg?rlkey=spvrcbbtdsk34vq5ryiwpq6k4&raw=1",
@@ -125,16 +133,18 @@ const imageColumn3 = [
     alt: "Fish in an aquarium, Lisbon",
   },
   {
-    url: "https://www.dropbox.com/scl/fi/enhsmo83x6m2gc3q5jfgj/DSC08416.jpeg?rlkey=ferfmc5klrk0vypelqptkace3&raw=1",
+    url: "https://www.dropbox.com/scl/fi/nbptsee7pridzba9x4rpi/DSC08416.jpg?rlkey=72ilqxwii898awg6m87dslg32&raw=1",
     alt: "More fish",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/3izod1dq2sdspt08wrq5w/DSC09477.jpeg?rlkey=y3yh01y65olktdickhu57dqil&raw=1",
     alt: "Dome, Fitzwilliam Museum, Cambridge",
   },
   {
-    url: "https://www.dropbox.com/scl/fi/zkrevh77uneuhduhno1kd/IMG_0775.jpeg?rlkey=bgeac2yrnfkf5scx44myymqof&raw=1",
+    url: "https://www.dropbox.com/scl/fi/wvs2fqs4rocplppegp7v2/IMG_0775.jpg?rlkey=ciilybjy1k3xe33krvhmwfq9d&raw=1",
     alt: "River Thames, London",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/0i0at2t41bor952zux6yy/DSC00718.jpg?rlkey=m7pfd1xa7umb9nad52xmvadmh&raw=1",
@@ -147,6 +157,59 @@ const imageColumn3 = [
   {
     url: "https://www.dropbox.com/scl/fi/u95zgtj0hvb42vwhknb51/DSC08744.jpeg?rlkey=h8es1ych83h0eikge939ukuiu&raw=1",
     alt: "Sailing boat on the Mediterranean, Portugal",
+  },
+];
+
+const fullsizeimages = [
+  {
+    url: "https://www.dropbox.com/scl/fi/e73zyzx8gu59stw7p0x5u/DSC08527.jpeg?rlkey=uixfby1jd7xyzssuwf8cyeluy&raw=1",
+    alt: "Purple jellyfish",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/966ut30oczjxgclnqaz1h/IMG_1179.jpeg?rlkey=aa7a52rt1juagxg6ownpi909w&raw=1",
+    alt: "New York City street, near Carnegie Hall",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/enhsmo83x6m2gc3q5jfgj/DSC08416.jpeg?rlkey=ferfmc5klrk0vypelqptkace3&raw=1",
+    alt: "More fish",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/zkrevh77uneuhduhno1kd/IMG_0775.jpeg?rlkey=bgeac2yrnfkf5scx44myymqof&raw=1",
+    alt: "River Thames, London",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/rfymftn2aypmdwl5xvseu/B0E4C7D5-2C77-46BD-80CF-970528D0DB29.jpeg?rlkey=th5ukvxiw8x9nfh48zy7edwt7&raw=1",
+    alt: "View with Binoculars, New York City",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/r3jefg0pw3d0dxp8vb45m/IMG_5543.jpeg?rlkey=4n6e0x2ngrdkz6pohq0zzmz3c&raw=1",
+    alt: "West Hub, Cambridge",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/x6mw1se9izbqd90hvmybw/DSC00156.jpg?rlkey=8qjiet4dsnmcc2mm5jal4dcya&raw=1",
+    alt: "Point of information, Cambridge Union",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/lwmb6tfzuavgff1f2xjs6/IMG_1473.jpeg?rlkey=xyuxqqpg8976h1qtscz32hmal&raw=1",
+    alt: "Emergency Call Box, New York City",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/97pbjfgyuzoczv2h5ze10/IMG_1429.jpeg?rlkey=khql82gwn4zk0huaem59uw7oa&raw=1",
+    alt: "Skyview, New York City",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/7ojtgu6hprzxobl9k3f0q/12EF6AC8-2116-4088-BBC3-EC4147D3DB28.jpeg?rlkey=x4ru5swnd8gyu8g6092ux83hk&raw=1",
+    alt: "Road, New York City",
+    compressed: false,
   },
 ];
 
