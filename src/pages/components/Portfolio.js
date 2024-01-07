@@ -18,8 +18,9 @@ const imageColumn1 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/a0lel0d2bkgk21xy5mvav/8CE00B79-9434-433C-A9A8-8F1139149ACE.jpeg?rlkey=fgibqklmrewew3dhq676vx59w&raw=1",
+    url: "https://www.dropbox.com/scl/fi/w377ldeinzcpp0sujozhz/8CE00B79-9434-433C-A9A8-8F1139149ACE.jpg?rlkey=mbjccf74nmpnyie4hwku07x0x&raw=1",
     alt: "Chinatown, New York City",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/k39fckpi6dgm2slir2yiu/IMG_5249.jpg?rlkey=dad68sgv420pph6yq4sbo8omy&raw=1",
@@ -27,8 +28,9 @@ const imageColumn1 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/kfcu9mmgia6ctevedrssb/DSC08530.jpeg?rlkey=n0cuagfiycjwlyhjrm5bggugs&raw=1",
+    url: "https://www.dropbox.com/scl/fi/fft94mwzo8kvgc36mq4if/DSC08530.jpg?rlkey=gp3f37pvm7vi5ikiqj7nw8g3e&raw=1",
     alt: "Two goldfish swimming",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/twb6guprbrgnl0t9eeiob/DSC08527.jpg?rlkey=nnpp0p7svrlfswil439jl1u2p&raw=1",
@@ -36,12 +38,14 @@ const imageColumn1 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/1tqktb3cdd402bi2fouc0/IMG_7121.jpeg?rlkey=wx9omd73ia7h4j25fhye7l85n&raw=1",
+    url: "https://www.dropbox.com/scl/fi/mxzvlg6gdm1wxn2538bdf/IMG_7121.jpg?rlkey=hcpxosasawqvtwv39wr9uvj6j&raw=1",
     alt: "Purple spiral light, Kew Gardens",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/gji1fy4wbnvlqimmw95rk/IMG_4412.jpeg?rlkey=fx76bcw8nlspzgyikwkyfxawq&raw=1",
+    url: "https://www.dropbox.com/scl/fi/2x046wightr4lohkajp7t/IMG_4412.jpg?rlkey=jhq5p8tk6ax6yes3xgrxr6kuz&raw=1",
     alt: "Stained glass windows and pipe organ, La Sagrada Familia, Barcelona",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/lnhhwixtdugme6y8xht8m/DSC01000.jpg?rlkey=q80belnbs4s0mm0qunqp1p40m&raw=1",
@@ -88,12 +92,14 @@ const imageColumn2 = [
     alt: "Wasp on flower, Cambridge",
   },
   {
-    url: "https://www.dropbox.com/scl/fi/y4nb4smxf1p27fta6mrww/IMG_0360.jpeg?rlkey=zpg8tecpiowksm06t8czmywz0&raw=1",
+    url: "https://www.dropbox.com/scl/fi/4t7988jjad5skrwmkm9oe/IMG_0360.jpg?rlkey=h34ot7ou4e24b81j45o63xwvk&raw=1",
     alt: "Fireworks over the River Cam, St John's May Ball",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/ulgwctx96rnadyfhw8har/DSC09395.jpeg?rlkey=l7cogrbhd3xun4qm9nwxkcfhh&raw=1",
+    url: "https://www.dropbox.com/scl/fi/c4arshf7wmf9cc7tcwy1y/DSC09395.jpg?rlkey=q2bttdquwb8mtig0z9dip89xh&raw=1",
     alt: "Palestinian Embroidery Exhibit, Kettle's Yard",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/3t5c7f1zpjt8ep41mtrzq/DSC09291.jpeg?rlkey=q3fbh0a5326nfekvmdivi2w2o&raw=1",
@@ -137,8 +143,9 @@ const imageColumn3 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/wsayjpt2t7jmd2k0vgqtt/DSC08529.jpeg?rlkey=3dbl1wqmt0kzbmvhpvp0gczy0&raw=1",
+    url: "https://www.dropbox.com/scl/fi/4syhvrgd1udajj3orfq05/DSC08529.jpg?rlkey=elusvzshi9abogoa4q68w4m8h&raw=1",
     alt: "Fish in an aquarium, Lisbon",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/nbptsee7pridzba9x4rpi/DSC08416.jpg?rlkey=72ilqxwii898awg6m87dslg32&raw=1",
@@ -257,6 +264,41 @@ const fullsizeimages = [
   {
     url: "https://www.dropbox.com/scl/fi/tmd1vsr71uk9zl6hh9mci/IMG_3001.jpeg?rlkey=spvrcbbtdsk34vq5ryiwpq6k4&raw=1",
     alt: "Sunset over Christ's College, Cambridge",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/gji1fy4wbnvlqimmw95rk/IMG_4412.jpeg?rlkey=fx76bcw8nlspzgyikwkyfxawq&raw=1",
+    alt: "Stained glass windows and pipe organ, La Sagrada Familia, Barcelona",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/kfcu9mmgia6ctevedrssb/DSC08530.jpeg?rlkey=n0cuagfiycjwlyhjrm5bggugs&raw=1",
+    alt: "Two goldfish swimming",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/ulgwctx96rnadyfhw8har/DSC09395.jpeg?rlkey=l7cogrbhd3xun4qm9nwxkcfhh&raw=1",
+    alt: "Palestinian Embroidery Exhibit, Kettle's Yard",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/wsayjpt2t7jmd2k0vgqtt/DSC08529.jpeg?rlkey=3dbl1wqmt0kzbmvhpvp0gczy0&raw=1",
+    alt: "Fish in an aquarium, Lisbon",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/y4nb4smxf1p27fta6mrww/IMG_0360.jpeg?rlkey=zpg8tecpiowksm06t8czmywz0&raw=1",
+    alt: "Fireworks over the River Cam, St John's May Ball",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/1tqktb3cdd402bi2fouc0/IMG_7121.jpeg?rlkey=wx9omd73ia7h4j25fhye7l85n&raw=1",
+    alt: "Purple spiral light, Kew Gardens",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/a0lel0d2bkgk21xy5mvav/8CE00B79-9434-433C-A9A8-8F1139149ACE.jpeg?rlkey=fgibqklmrewew3dhq676vx59w&raw=1",
+    alt: "Chinatown, New York City",
     compressed: false,
   },
 ];
