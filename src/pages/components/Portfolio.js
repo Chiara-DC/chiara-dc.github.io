@@ -48,16 +48,18 @@ const imageColumn1 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/lnhhwixtdugme6y8xht8m/DSC01000.jpg?rlkey=q80belnbs4s0mm0qunqp1p40m&raw=1",
+    url: "https://www.dropbox.com/scl/fi/97txp6uf75rp1jue6rprg/DSC01000.jpg?rlkey=08kv825hzm5lt4x0xsnyi70s2&raw=1",
     alt: "Union hacks applauding, Cambridge Union",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/fy0gx7wm38wtxkv63q35j/DSC00678.jpg?rlkey=yje3d2q5nnwd06v4nofa90ofm&raw=1",
     alt: "Man speaking at the Cambridge Union, from behind",
   },
   {
-    url: "https://www.dropbox.com/scl/fi/ev40ojgjd8lsmkx2mc1wu/DSC08769.jpeg?rlkey=cm6xz9qjxhtj7scnr0r1e0tgq&raw=1",
+    url: "https://www.dropbox.com/scl/fi/7wsghlimqxovigtt5jhkn/DSC08769.jpg?rlkey=va6pnwktu2qsyk47ese4nhqp6&raw=1",
     alt: "Quinto da Regaleira, Portugal",
+    compressed: true,
   },
 ];
 
@@ -88,8 +90,9 @@ const imageColumn2 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/j73srjpkb34kogj0ciseh/DSC09257.jpeg?rlkey=4d4irah5a9k2hbb3rwrxqpk3z&raw=1",
+    url: "https://www.dropbox.com/scl/fi/4ijv8q2wz15dvy0w8ykai/DSC09257.jpg?rlkey=rvq8v6wdsk7zpvxtwii3sw8xt&raw=1",
     alt: "Wasp on flower, Cambridge",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/4t7988jjad5skrwmkm9oe/IMG_0360.jpg?rlkey=h34ot7ou4e24b81j45o63xwvk&raw=1",
@@ -102,12 +105,14 @@ const imageColumn2 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/3t5c7f1zpjt8ep41mtrzq/DSC09291.jpeg?rlkey=q3fbh0a5326nfekvmdivi2w2o&raw=1",
+    url: "https://www.dropbox.com/scl/fi/pez52alh54srju5bx4ls0/DSC09291.jpg?rlkey=ahs3hszbw74zj6eawlji7nd1b&raw=1",
     alt: "Flowers at St John's, Cambridge",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/0w0mkj2jat2317qljcnqh/DSC01009.jpg?rlkey=g2bdv78h78wgnba60eo232rua&raw=1",
+    url: "https://www.dropbox.com/scl/fi/mwux10avrz8nl3982uuxj/DSC01009.jpg?rlkey=6bmtkoq023s9xkigd0e05hkug&raw=1",
     alt: "Headshot of a speaker at the Cambridge Union",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/a9pmxw3nano40lpy5dt9u/DSC00156.jpg?rlkey=lsbm8fz2rtyddxsuoagosq3o9&raw=1",
@@ -299,6 +304,31 @@ const fullsizeimages = [
   {
     url: "https://www.dropbox.com/scl/fi/a0lel0d2bkgk21xy5mvav/8CE00B79-9434-433C-A9A8-8F1139149ACE.jpeg?rlkey=fgibqklmrewew3dhq676vx59w&raw=1",
     alt: "Chinatown, New York City",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/3t5c7f1zpjt8ep41mtrzq/DSC09291.jpeg?rlkey=q3fbh0a5326nfekvmdivi2w2o&raw=1",
+    alt: "Flowers at St John's, Cambridge",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/j73srjpkb34kogj0ciseh/DSC09257.jpeg?rlkey=4d4irah5a9k2hbb3rwrxqpk3z&raw=1",
+    alt: "Wasp on flower, Cambridge",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/0w0mkj2jat2317qljcnqh/DSC01009.jpg?rlkey=g2bdv78h78wgnba60eo232rua&raw=1",
+    alt: "Headshot of a speaker at the Cambridge Union",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/lnhhwixtdugme6y8xht8m/DSC01000.jpg?rlkey=q80belnbs4s0mm0qunqp1p40m&raw=1",
+    alt: "Union hacks applauding, Cambridge Union",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/ev40ojgjd8lsmkx2mc1wu/DSC08769.jpeg?rlkey=cm6xz9qjxhtj7scnr0r1e0tgq&raw=1",
+    alt: "Quinto da Regaleira, Portugal",
     compressed: false,
   },
 ];
