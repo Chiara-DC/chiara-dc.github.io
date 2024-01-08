@@ -53,8 +53,9 @@ const imageColumn1 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/fy0gx7wm38wtxkv63q35j/DSC00678.jpg?rlkey=yje3d2q5nnwd06v4nofa90ofm&raw=1",
+    url: "https://www.dropbox.com/scl/fi/190cxuaak6x2r7x1snxdw/DSC00678.jpg?rlkey=ykcaa1iahce6w03atx4vhu9zs&raw=1",
     alt: "Man speaking at the Cambridge Union, from behind",
+    compresed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/7wsghlimqxovigtt5jhkn/DSC08769.jpg?rlkey=va6pnwktu2qsyk47ese4nhqp6&raw=1",
@@ -158,8 +159,9 @@ const imageColumn3 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/3izod1dq2sdspt08wrq5w/DSC09477.jpeg?rlkey=y3yh01y65olktdickhu57dqil&raw=1",
+    url: "https://www.dropbox.com/scl/fi/ghwugs8uphvgqkwlbszgt/DSC09477.jpg?rlkey=me37t328souhagrp2kd7t2fb2&raw=1",
     alt: "Dome, Fitzwilliam Museum, Cambridge",
+    compressed: true,
   },
   {
     url: "https://www.dropbox.com/scl/fi/wvs2fqs4rocplppegp7v2/IMG_0775.jpg?rlkey=ciilybjy1k3xe33krvhmwfq9d&raw=1",
@@ -167,16 +169,19 @@ const imageColumn3 = [
     compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/0i0at2t41bor952zux6yy/DSC00718.jpg?rlkey=m7pfd1xa7umb9nad52xmvadmh&raw=1",
-    alt: "Speaker at the Cambridge Union",
+    url: "https://www.dropbox.com/scl/fi/z5p21f6adjg5m3jrr5eq4/DSC00718.jpg?rlkey=pcv57054de57v1gq31uwomejr&raw=1",
+    alt: "Speaker at the Cambridge Union, holding a notebook",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/99az41oowrdo4ecfqv6f6/DSC00896.jpg?rlkey=ripljlzddsx5jh6e1ocspwhl1&raw=1",
+    url: "https://www.dropbox.com/scl/fi/0lgn25y1trbtx1cqv0rla/DSC00896.jpg?rlkey=m6jbayxpnaruuh2jlzdhjja93&raw=1",
     alt: "Speaker gesturing at the Cambridge Union",
+    compressed: true,
   },
   {
-    url: "https://www.dropbox.com/scl/fi/u95zgtj0hvb42vwhknb51/DSC08744.jpeg?rlkey=h8es1ych83h0eikge939ukuiu&raw=1",
+    url: "https://www.dropbox.com/scl/fi/h2fqqn3r6x19hoqmjkpw5/DSC08744.jpg?rlkey=qpsppqnhhxjsw2em36rpm805j&raw=1",
     alt: "Sailing boat on the Mediterranean, Portugal",
+    compressed: true,
   },
 ];
 
@@ -329,6 +334,31 @@ const fullsizeimages = [
   {
     url: "https://www.dropbox.com/scl/fi/ev40ojgjd8lsmkx2mc1wu/DSC08769.jpeg?rlkey=cm6xz9qjxhtj7scnr0r1e0tgq&raw=1",
     alt: "Quinto da Regaleira, Portugal",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/3izod1dq2sdspt08wrq5w/DSC09477.jpeg?rlkey=y3yh01y65olktdickhu57dqil&raw=1",
+    alt: "Dome, Fitzwilliam Museum, Cambridge",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/u95zgtj0hvb42vwhknb51/DSC08744.jpeg?rlkey=h8es1ych83h0eikge939ukuiu&raw=1",
+    alt: "Sailing boat on the Mediterranean, Portugal",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/fy0gx7wm38wtxkv63q35j/DSC00678.jpg?rlkey=yje3d2q5nnwd06v4nofa90ofm&raw=1",
+    alt: "Man speaking at the Cambridge Union, from behind",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/0i0at2t41bor952zux6yy/DSC00718.jpg?rlkey=m7pfd1xa7umb9nad52xmvadmh&raw=1",
+    alt: "Speaker at the Cambridge Union, holding a notebook",
+    compressed: false,
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/99az41oowrdo4ecfqv6f6/DSC00896.jpg?rlkey=ripljlzddsx5jh6e1ocspwhl1&raw=1",
+    alt: "Speaker gesturing at the Cambridge Union",
     compressed: false,
   },
 ];
