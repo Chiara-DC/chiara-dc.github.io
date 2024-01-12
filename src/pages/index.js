@@ -2,22 +2,13 @@ import * as React from "react";
 import "./styles/index.css";
 import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
+// import Footer from "./components/Footer";
 
 const IndexPage = () => {
   return (
     <>
       <Navbar />
       <div className="home">
-        {/* <svg
-          className="svgimage"
-          width="304"
-          height="304"
-          viewBox="0 0 304 304"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <circle cx="152" cy="152" r="152" fill="#0C265A" />
-        </svg> */}
         <img
           src="https://www.dropbox.com/scl/fi/i7s3jzdhov0fnqjc9p3hd/chiara.svg?rlkey=8lv4opvcrvl7t140fk9ahan1y&raw=1"
           width="400"
@@ -36,15 +27,6 @@ const IndexPage = () => {
           Hi! I'm a scientist, developer, and photographer, currently studying
           Physics at Cambridge.
         </p>
-        {/* <p>
-          Scientist, developer, and amateur photographer. Scientist, developer,
-          and amateur photographer. Scientist, developer, and amateur
-          photographer. Scientist, developer, and amateur photographer.
-          Scientist, developer, and amateur photographer.
-        </p> */}
-      </div>
-      <div className="text">
-        <h1 id="photography">Photography</h1>
         <p>
           I have been an enthusiastic photographer for many years, with
           experience photographing cityscapes, landscapes, wildlife, and macro
@@ -61,9 +43,12 @@ const IndexPage = () => {
             here: [PDF version].
           </a>
         </p>
-        <p>A gallery can also be found below!</p>
-        <Portfolio />
       </div>
+      <div className="text">
+        <h1 id="photography">Photography</h1>
+        <p>A gallery can also be found below!</p>
+      </div>
+      <Portfolio />
       <div className="text">
         <h1 id="contact">Contact</h1>
         <p>
@@ -71,9 +56,17 @@ const IndexPage = () => {
           <a className="email" href="mailto: hello@chiaradc.com">
             hello@chiaradc.com
           </a>{" "}
-          to negotiate rates or request more information!
+          to negotiate rates or request more information! Alternatively, DM me
+          on Instagram at{" "}
+          <a
+            className="email"
+            href="https://www.instagram.com/chiaradc.photos/"
+          >
+            @chiaradc.photos
+          </a>
         </p>
       </div>
+      {/* <Footer /> */}
     </>
   );
 };
