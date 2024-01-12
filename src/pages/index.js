@@ -2,7 +2,7 @@ import * as React from "react";
 import "./styles/index.css";
 import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
-// import Footer from "./components/Footer";
+import Footer from "./components/Footer";
 
 const IndexPage = () => {
   return (
@@ -66,7 +66,7 @@ const IndexPage = () => {
           </a>
         </p>
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </>
   );
 };
