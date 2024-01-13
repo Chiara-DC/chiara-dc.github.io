@@ -71,6 +71,12 @@ export const column1 = [
     compressed: true,
     tags: ["landscape"],
   },
+  {
+    url: "https://www.dropbox.com/scl/fi/i8dtjdq3sadq2vevlvtqm/DSC08978.jpg?rlkey=b1nq1omdxms38cdsk0wpqoxwr&raw=1",
+    alt: "Vintage metal signs, Amsterdam",
+    compressed: true,
+    tags: [],
+  },
 ];
 
 export const column2 = [
@@ -139,6 +145,12 @@ export const column2 = [
     alt: "Point of information, Cambridge Union",
     compressed: true,
     tags: ["union"],
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/55uot8l0lau54cqq4smwq/DSC08831.jpg?rlkey=bqm48la8led231ygmzj0d0ze3&raw=1",
+    alt: "Palacio da Pena, Portufal",
+    compressed: true,
+    tags: ["architecture"],
   },
 ];
 
@@ -212,6 +224,12 @@ export const column3 = [
   {
     url: "https://www.dropbox.com/scl/fi/h2fqqn3r6x19hoqmjkpw5/DSC08744.jpg?rlkey=qpsppqnhhxjsw2em36rpm805j&raw=1",
     alt: "Sailing boat on the Mediterranean, Portugal",
+    compressed: true,
+    tags: [],
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/2mnpuc6f9lxh66bpx3exm/IMG_4492.jpg?rlkey=m7lx9zc74pxl30essc6oz08ig&raw=1",
+    alt: "Lamp, Putney Bridge",
     compressed: true,
     tags: [],
   },
