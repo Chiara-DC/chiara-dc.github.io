@@ -12,18 +12,45 @@
   margin: auto;
 }
 
+.twocolrow {
+  display: none;
+}
+
 .column img {
   margin-top: 8px;
   /* vertical-align: middle; */
 }
 
 @media (max-width: 800px) {
-  .column {
+  .row {
+    display: none;
+  }
+
+  .twocolrow {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4 0px;
+    margin: auto;
+  }
+  .twocolcolumn {
     flex: 48%;
     max-width: 48%;
+    padding: auto;
+    margin: auto;
   }
 }
 @media (max-width: 600px) {
+  .twocolrow {
+    display: none;
+  }
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4 0px;
+    margin: auto;
+  }
+
   .column {
     flex: 100%;
     max-width: 100%;
