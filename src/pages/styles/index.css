@@ -32,6 +32,12 @@ body {
   margin-top: 60px;
 }
 
+.portfolio {
+  margin-left: 64px;
+  margin-right: 79px;
+  margin-top: 60px;
+}
+
 h1 {
   font-size: 36px;
   font-weight: 600;
@@ -87,7 +93,25 @@ p {
     margin-top: 60px;
   }
 
+  .portfolio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
   /* .name {
     display: none;
   } */
+}
+
+button {
+  background-color: #feb729;
+  color: #0c265a;
+  padding: 10px;
+  margin: 10px;
+  font-weight: bold;
+
+  border: #d99d25;
+  border-style: solid;
+  border-width: 1px;
 }

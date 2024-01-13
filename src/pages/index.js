@@ -46,9 +46,12 @@ const IndexPage = () => {
       </div>
       <div className="text">
         <h1 id="photography">Photography</h1>
-        <p>A gallery can also be found below!</p>
+        <p>A gallery can also be found below! </p>
       </div>
-      <Portfolio />
+      <div className="portfolio">
+        <Portfolio />
+      </div>
+
       <div className="text">
         <h1 id="contact">Contact</h1>
         <p>
