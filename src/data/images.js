@@ -77,6 +77,18 @@ export const column1 = [
     compressed: true,
     tags: [],
   },
+  {
+    url: "https://www.dropbox.com/scl/fi/bf25p7hkvool55aiftrlv/IMG_7817.jpg?rlkey=8qnnr04nzi0ycfwopauzru841&raw=1",
+    alt: "Light houses at Kew Gardens, London",
+    compressed: true,
+    tags: ["night", "christmas at kew"],
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/m06jr3li2rc5kf66ojubx/DSC01188-Enhanced-NR.jpg?rlkey=jwr174fvfenlc654qdqqkote1&raw=1",
+    alt: "Sunset from the Typewriter, Christ's, Cambridge",
+    compressed: true,
+    tags: ["sunset", "cambridge"],
+  },
 ];
 
 export const column2 = [
@@ -151,6 +163,18 @@ export const column2 = [
     alt: "Palacio da Pena, Portufal",
     compressed: true,
     tags: ["architecture"],
+  },
+  {
+    url: " https://www.dropbox.com/scl/fi/cuqktvj1drmwokzu28ixo/IMG_7949.jpg?rlkey=ifx6b7fye7tx2bnk4myuprqzv&raw=1",
+    alt: "Light flower sculpture at Kew Gardens, London",
+    compressed: true,
+    tags: ["night", "christmas at kew"],
+  },
+  {
+    url: "https://www.dropbox.com/scl/fi/e8tmq771vdtn4t5wjrvsp/IMG_7938.jpg?rlkey=8egilcel4tkktywmdfs1hnsd4&raw=1",
+    alt: "Illuminated white flower sculpture at Kew Gardens, London",
+    compressed: true,
+    tags: ["night", "christmas at kew"],
   },
 ];
 
@@ -232,6 +256,18 @@ export const column3 = [
     alt: "Lamp, Putney Bridge",
     compressed: true,
     tags: [],
+  },
+  {
+    url: " https://www.dropbox.com/scl/fi/01gsgxc0lnvu0zxiho4m3/IMG_7920.jpg?rlkey=6cqz92noqbv9z73fuowuvdyf2&raw=1",
+    alt: "Sky light show at Kew Gardens, London",
+    compressed: true,
+    tags: ["night", "christmas at kew"],
+  },
+  {
+    url: " https://www.dropbox.com/scl/fi/oog2jvko7iabdc1z2ggsr/DSC01205-Enhanced-NR.jpg?rlkey=5ztu4lxi3w9opqzba16z8bakb&raw=1",
+    alt: "Punts near Magdalene, River Cam",
+    compressed: true,
+    tags: ["night", "cambridge"],
   },
 ];
 
