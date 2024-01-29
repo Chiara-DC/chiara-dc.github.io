@@ -71,9 +71,9 @@ p {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
     padding: 0;
-    width: 80%;
+    width: 300px;
+    height: 300px;
   }
 
   .title {
@@ -104,14 +104,12 @@ p {
   } */
 }
 
-button {
-  background-color: #feb729;
-  color: #0c265a;
-  padding: 10px;
-  margin: 10px;
-  font-weight: bold;
-
-  border: #d99d25;
-  border-style: solid;
-  border-width: 1px;
+@media screen and (max-width: 600) {
+  .svgimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    width: 80%;
+  }
 }
