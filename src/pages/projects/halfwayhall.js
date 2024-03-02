@@ -14,7 +14,7 @@ const column1 = [
   },
   {
     url: "https://www.dropbox.com/scl/fi/zyt14tkhk2ffl0jqjlrxb/IMG_HalfWayHall-27.jpg?rlkey=6k6di3bdsp2fiv8058n6fddui&raw=1",
-    alt: "Christ's Halfway Hall, 2024, W&A",
+    alt: "Christ's Halfway Hall, 2024, J&G&C&others",
     compressed: true,
     tags: ["halfway hall"],
     orientation: "horizontal",
