@@ -102,3 +102,5 @@ const HalfWayHall = () => {
 };
 
 export default HalfWayHall;
+
+export const Head = () => <title>Chiara DC - Projects - Halfway Hall</title>;
