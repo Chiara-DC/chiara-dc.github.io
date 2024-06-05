@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import "./styles/index.css";
 
-import NewPhotoLayout from "./components/NewPhotoLayout";
+import People from "./components/layouts/People";
 
 const CambridgeHalfMarathon = () => {
   return (
@@ -13,7 +13,7 @@ const CambridgeHalfMarathon = () => {
         <h1 id="about">Photos of Humans</h1>
       </div>
       <div className="home">
-        <NewPhotoLayout />
+        <People />
       </div>
       <Footer />
     </>

@@ -1,7 +1,7 @@
-import "./Portfolio.css";
+import "../Portfolio.css";
 import * as React from "react";
 
-export default function PhotoLayout({
+export default function Previous({
   column1,
   column2,
   column3,

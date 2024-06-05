@@ -2,7 +2,7 @@ import "../Portfolio.css";
 import * as React from "react";
 import { StaticImage } from "gatsby-plugin-image";
 
-export default function Layout() {
+export default function Main() {
   return (
     <>
       <div className="row">

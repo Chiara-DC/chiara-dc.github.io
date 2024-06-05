@@ -2,7 +2,7 @@ import * as React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import "../styles/index.css";
-import Layout from "../components/layouts/cambridge";
+import Cambridge from "../components/layouts/Cambridge";
 
 const CambridgeWalks = () => {
   return (
@@ -12,7 +12,7 @@ const CambridgeWalks = () => {
         <h1 id="about">Walks around Cambridge</h1>
       </div>
       <div className="home">
-        <Layout />
+        <Cambridge />
       </div>
       <Footer />
     </>

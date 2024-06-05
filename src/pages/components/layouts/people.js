@@ -1,8 +1,8 @@
-import "./Portfolio.css";
+import "../Portfolio.css";
 import * as React from "react";
 import { StaticImage } from "gatsby-plugin-image";
 
-export default function NewPhotoLayout({
+export default function People({
   column1,
   column2,
   column3,

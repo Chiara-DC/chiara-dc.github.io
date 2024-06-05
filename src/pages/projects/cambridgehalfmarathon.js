@@ -2,7 +2,7 @@ import * as React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import "../styles/index.css";
-import PhotoLayout from "../components/PhotoLayout";
+import Previous from "../components/layouts/Previous";
 
 const column1 = [
   {
@@ -88,7 +88,7 @@ const CambridgeHalfMarathon = () => {
         <h1 id="about">Cambridge Half Marathon, 2024</h1>
       </div>
       <div className="home">
-        <PhotoLayout
+        <Previous
           column1={column1}
           column2={column2}
           column3={column3}
