@@ -8,14 +8,17 @@ export default function Layout() {
       <div className="row">
         <div className="column">
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/bikes.jpg"
             alt="Bikes"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/ducks.jpg"
             alt="Ducks"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/punts.jpg"
             alt="Punts"
           />
@@ -23,14 +26,17 @@ export default function Layout() {
 
         <div className="column">
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/busstop.jpg"
             alt="Bus Stop"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/fallenbarrier.jpg"
             alt="Fallen Barrier"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/bikes.jpg"
             alt="Swans"
           />
@@ -38,10 +44,12 @@ export default function Layout() {
 
         <div className="column">
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/covidsign.jpg"
             alt="Covid Sign"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/postbox.jpg"
             alt="Postbox"
           />
@@ -50,18 +58,22 @@ export default function Layout() {
       <div className="twocolrow">
         <div className="twocolcolumn">
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/bikes.jpg"
             alt="Bikes"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/ducks.jpg"
             alt="Ducks"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/busstop.jpg"
             alt="Bus Stop"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/fallenbarrier.jpg"
             alt="Fallen Barrier"
           />
@@ -69,18 +81,22 @@ export default function Layout() {
 
         <div className="twocolcolumn">
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/covidsign.jpg"
             alt="Covid Sign"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/postbox.jpg"
             alt="Postbox"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/bikes.jpg"
             alt="Swans"
           />
           <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/cambridge/punts.jpg"
             alt="Punts"
           />
