@@ -39,6 +39,35 @@ export default function Layout() {
             src="../../../images/tags/iphone/christmasatkew/purplespirallight.jpeg"
             alt="Purple spiral light, Christmas at Kew"
           />
+          <StaticImage
+            src="../../../images/tags/iphone/architecture/stainedglasspipeorgansagradafamilia.jpeg"
+            alt="Stained glass windows and pipe organ, La Sagrada Familia, Barcelona"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/union/hacksapplauding.jpg"
+            alt="Union hacks applauding, Cambridge Union"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/architecture/quintodaregaleira.jpg"
+            alt="Quinto da Regaleira, Portugal"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/vintagemetalsigns.jpg"
+            alt="Vintage metal signs, Amsterdam"
+          />
+          <StaticImage
+            src="../../../images/tags/iphone/christmasatkew/lighthouses.jpg"
+            alt="Light houses, Christmas at Kew"
+          />
+
+          <StaticImage
+            src="../../../images/tags/canoneos5d/cambridge/totheriver.jpg"
+            alt="To the River, near Trinity Hall"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/cambridge/sunsetfromtypewriter.jpg"
+            alt="Sunset from the Typewriter, Christ's College"
+          />
         </div>
 
         <div className="column">
@@ -55,7 +84,7 @@ export default function Layout() {
             alt="Car in St Petersburg"
           />
           <StaticImage
-            src="../../../images/tags/iphone/cambridge/garretthostelbridgeview.jpeg"
+            src="../../../images/tags/iphone/cambridge/garretthostelbridge.jpg"
             alt="View from Garrett Hostel Bridge"
           />
           <StaticImage
@@ -65,6 +94,30 @@ export default function Layout() {
           <StaticImage
             src="../../../images/tags/sonya200/nature/wasponflower.jpeg"
             alt="Wasp on flower, Cambridge"
+          />
+          <StaticImage
+            src="../../../images/tags/iphone/night/johnsfireworks.jpg"
+            alt="Fireworks over the River Cam, St John's May Ball"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/cambridge/palestinianembroiderykettlesyard.jpeg"
+            alt="Palestinian Embroidery Exhibit, Kettle's Yard"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/nature/flowersatjohns.jpeg"
+            alt="Flowers at St John's College, Cambridge"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/union/speakerheadshot.jpg"
+            alt="Headshot of a speaker, Cambridge Union"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/union/pointofinformation.jpg"
+            alt="Point of information, Cambridge Union"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/architecture/palaciodapena.jpg"
+            alt="Palacio da Pena, Portugal"
           />
         </div>
 
@@ -100,6 +153,34 @@ export default function Layout() {
           <StaticImage
             src="../../../images/tags/sonya200/cambridge/fitzmuseumdome.jpeg"
             alt="Fitzwilliam Museum Dome, Cambridge"
+          />
+          <StaticImage
+            src="../../../images/tags/iphone/city/riverthameslondon.jpeg"
+            alt="River Thames, London"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/union/studentspeaker.jpg"
+            alt="Student speaker, Cambridge Union, holding notebook"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/union/speakergesturing.jpg"
+            alt="Speaker gesturing, Cambridge Union"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/nature/boatonsea.jpg"
+            alt="Sailing boat on the Mediterranean, Portugal"
+          />
+          <StaticImage
+            src="../../../images/tags/iphone/city/putneybridgelamp.jpg"
+            alt="Lamp, Putney Bridge"
+          />
+          <StaticImage
+            src="../../../images/tags/iphone/christmasatkew/lightshow.jpg"
+            alt="Sky light Show, Christmas at Kew"
+          />
+          <StaticImage
+            src="../../../images/tags/sonya200/cambridge/magdalenepunts.jpg"
+            alt="Punts near Magdalene College"
           />
         </div>
       </div>
