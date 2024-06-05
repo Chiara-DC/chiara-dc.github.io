@@ -1,7 +1,7 @@
 import * as React from "react";
 import "./styles/index.css";
 import Navbar from "./components/Navbar";
-import Portfolio from "./components/Portfolio";
+import Main from "./components/layouts/Main";
 import Footer from "./components/Footer";
 
 const IndexPage = () => {
@@ -76,7 +76,7 @@ const IndexPage = () => {
         <p>A gallery can also be found below! </p>
       </div>
       <div className="portfolio">
-        <Portfolio />
+        <Main />
       </div>
 
       <div className="text">
