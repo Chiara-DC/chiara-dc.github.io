@@ -2,7 +2,7 @@ import * as React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import "../styles/index.css";
-import Cambridge from "../components/layouts/Cambridge";
+import Cambridge from "../components/layouts/CamWalkLayout";
 
 const CambridgeWalks = () => {
   return (

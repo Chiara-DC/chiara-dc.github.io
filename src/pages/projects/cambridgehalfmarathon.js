@@ -2,7 +2,7 @@ import * as React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import "../styles/index.css";
-import Previous from "../components/layouts/Previous";
+import Previous from "../components/layouts/PrevLayout";
 
 const column1 = [
   {

@@ -1,11 +1,10 @@
 import * as React from "react";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import "./styles/index.css";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import "../styles/index.css";
+import PeopleLayout from "../components/layouts/PeopleLayout";
 
-import People from "./components/layouts/People";
-
-const CambridgeHalfMarathon = () => {
+const PeoplePhotos = () => {
   return (
     <>
       <Navbar />
@@ -13,14 +12,14 @@ const CambridgeHalfMarathon = () => {
         <h1 id="about">Photos of Humans</h1>
       </div>
       <div className="home">
-        <People />
+        <PeopleLayout />
       </div>
       <Footer />
     </>
   );
 };
 
-export default CambridgeHalfMarathon;
+export default PeoplePhotos;
 
 export const Head = () => (
   <title>Chiara DC - Projects - Cambridge Half Marathon</title>

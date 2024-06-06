@@ -1,7 +1,7 @@
 import * as React from "react";
 import "./styles/index.css";
 import Navbar from "./components/Navbar";
-import Main from "./components/layouts/Main";
+import Main from "./components/layouts/MainLayout";
 import Footer from "./components/Footer";
 
 const IndexPage = () => {
