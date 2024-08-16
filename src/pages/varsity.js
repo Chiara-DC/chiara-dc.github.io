@@ -92,6 +92,15 @@ const Varsity = () => {
               </a>{" "}
               (July 2024)
             </li>
+            <li>
+              <a
+                className="email"
+                href="https://www.varsity.co.uk/comment/28008"
+              >
+                University can be a halfway house for young people
+              </a>{" "}
+              (August 2024)
+            </li>
           </ul>
         </p>
         <p>

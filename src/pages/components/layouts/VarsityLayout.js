@@ -47,6 +47,13 @@ export default function Varsity() {
               alt="Beyond Black Tie (Cultural Wear Photoshoot)"
             />
           </a>
+          <a href="https://www.varsity.co.uk/comment/28008">
+            <StaticImage
+              className="staticimage"
+              src="../../../images/varsity/varsitysscbuilding.png"
+              alt="Entrance to SSC Building"
+            />
+          </a>
         </div>
         <div className="column">
           <a href="https://www.varsity.co.uk/sport/27495">
