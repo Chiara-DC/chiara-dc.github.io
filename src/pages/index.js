@@ -45,7 +45,19 @@ const IndexPage = () => {
         <p>
           I'm a photographer for Varsity, the independent Cambridge student
           newspaper, and also happy to do events, street photography, or pretty
-          much anything!{" "}
+          much anything!
+        </p>
+        <p>
+          I also have experience photographing May Balls and society events,
+          including{" "}
+          <a className="email" href="/events/robinsonmayball">
+            Robinson May Ball
+          </a>{" "}
+          and{" "}
+          <a className="email" href="/events/newnhamgardenparty">
+            Newnham Garden Party
+          </a>
+          .
         </p>
         <p>
           Email me at{" "}
@@ -64,7 +76,7 @@ const IndexPage = () => {
       </div>
       <div className="text">
         <h1 id="photography">Photography</h1>
-        <p>
+        {/* <p>
           A PDF version of my portfolio (for reference) can be found{" "}
           <a
             href="https://www.dropbox.com/scl/fi/ll6ibc08q4pp1s6y5u0ij/Portfolio-ChiaraDC.pdf?rlkey=djtoigwwc4cl6hoyzkc5pyblx&dl=0"
@@ -72,8 +84,8 @@ const IndexPage = () => {
           >
             here: [PDF version].
           </a>
-        </p>
-        <p>A gallery can also be found below! </p>
+        </p> */}
+        <p>My portfolio can be found below:</p>
       </div>
       <div className="portfolio">
         <Main />
