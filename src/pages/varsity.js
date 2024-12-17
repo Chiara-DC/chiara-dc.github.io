@@ -101,6 +101,15 @@ const Varsity = () => {
               </a>{" "}
               (August 2024)
             </li>
+            <li>
+              <a
+                className="email"
+                href="https://www.varsity.co.uk/comment/28029"
+              >
+                What Cambridge gets right about mental health
+              </a>{" "}
+              (August 2024)
+            </li>
           </ul>
         </p>
         <p>
