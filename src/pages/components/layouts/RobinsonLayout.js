@@ -34,6 +34,11 @@ export default function RobinsonLayout() {
           />
           <StaticImage
             className="staticimage"
+            src="../../../images/tags/canoneos5d/mayweek/robinson/robinson8686.jpg"
+            alt="Robinson 8686"
+          />
+          <StaticImage
+            className="staticimage"
             src="../../../images/tags/canoneos5d/mayweek/robinson/robinson9521.jpg"
             alt="Robinson 9521"
           />
@@ -57,7 +62,7 @@ export default function RobinsonLayout() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/tags/canoneos5d/mayweek/robinson/robinson970.jpg"
+            src="../../../images/tags/canoneos5d/mayweek/robinson/robinson9708.jpg"
             alt="Robinson 9708"
           />
           <StaticImage
@@ -97,6 +102,11 @@ export default function RobinsonLayout() {
             className="staticimage"
             src="../../../images/tags/canoneos5d/mayweek/robinson/robinson8826.jpg"
             alt="Robinson 8826"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/tags/canoneos5d/mayweek/robinson/robinson9555.jpg"
+            alt="Robinson 9555"
           />
           <StaticImage
             className="staticimage"

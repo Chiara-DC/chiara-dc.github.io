@@ -45,11 +45,6 @@ export default function NewnhamLayout() {
             src="../../../images/tags/canoneos5d/mayweek/newnham/newnham0171.jpg"
             alt="Newnham 0171"
           />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/tags/canoneos5d/mayweek/newnham/newnham0404.jpg"
-            alt="Newnham 0404"
-          />
         </div>
         <div className="column">
           <StaticImage
@@ -66,6 +61,11 @@ export default function NewnhamLayout() {
             className="staticimage"
             src="../../../images/tags/canoneos5d/mayweek/newnham/newnham0264.jpg"
             alt="Newnham 0264"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/tags/canoneos5d/mayweek/newnham/newnham0404.jpg"
+            alt="Newnham 0404"
           />
         </div>
       </div>
