@@ -19,18 +19,19 @@ const Events = () => {
           <a className="email" href="/events/newnhamgardenparty">
             Newnham Garden Party
           </a>
-          , as well as society and college events, and have experience
-          photographing under a variety of conditions (including very bright,
-          night time, and rain).
-        </p>
-
-        <p>
-          I currently use a Canon EOS 5D DSLR camera; more of my
-          (non-event-specific) photos can be found{" "}
+          , as well as society and college events. Having been an enthusiastic
+          amateur photographer for most of my life, I also have experience with
+          cityscapes, landscapes, wildlife, and macro photography, as well as
+          headshots. More of my (non-event-specific) photos can be found{" "}
           <a className="email" href="/">
             here
           </a>
           .
+        </p>
+
+        <p>
+          I currently use a Canon EOS 5D DSLR camera, with equipment to
+          accommodate any weather and lighting conditions.
         </p>
       </div>
       <div className="text">
