@@ -11,8 +11,7 @@ const Events = () => {
       <div className="text">
         <h1 id="about">Events</h1>
         <p>
-          I've photographeds I also have experience photographing May Balls and
-          society events, including{" "}
+          I've photographed May Week events, including{" "}
           <a className="email" href="/events/robinsonmayball">
             Robinson May Ball
           </a>{" "}
@@ -20,32 +19,18 @@ const Events = () => {
           <a className="email" href="/events/newnhamgardenparty">
             Newnham Garden Party
           </a>
+          , as well as society and college events, and have experience
+          photographing under a variety of conditions (including very bright,
+          night time, and rain).
         </p>
 
         <p>
-          I have been an enthusiastic photographer for many years, with
-          experience photographing cityscapes, landscapes, wildlife, and macro
-          photography, as well as headshots and event photography (under a
-          variety of conditions). I currently use a Canon EOS 5D DSLR camera
-          (previously a Sony DSLR camera).
-        </p>
-        <p>
-          I currently use a Canon EOS 5D DSLR camera (previously a Sony DSLR
-          camera).
-        </p>
-        <p>
-          Email me at{" "}
-          <a className="email" href="mailto: hello@chiaradc.com">
-            hello@chiaradc.com
-          </a>{" "}
-          to negotiate rates or request more information! Alternatively, DM me
-          on Instagram at{" "}
-          <a
-            className="email"
-            href="https://www.instagram.com/chiaradc.photos/"
-          >
-            @chiaradc.photos
+          I currently use a Canon EOS 5D DSLR camera; more of my
+          (non-event-specific) photos can be found{" "}
+          <a className="email" href="/">
+            here
           </a>
+          .
         </p>
       </div>
       <div className="text">
@@ -71,7 +56,13 @@ const Events = () => {
 
       <div className="text">
         <h1 id="photography">Society Events</h1>
-        <p>My portfolio can be found below:</p>
+        <a href="/events/newnhamgardenparty" class="button">
+          <div className="buttontext">Caius Lawyers and Alumni</div>
+          <StaticImage
+            src="../images/tags/canoneos5d/events/caiuslaw24/caiuslaw7510.jpg"
+            alt="Caius Lawyers and Alumni"
+          />
+        </a>
       </div>
       <div className="text">
         <h1 id="contact">Contact</h1>
