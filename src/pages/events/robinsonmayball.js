@@ -3,6 +3,7 @@ import "../styles/index.css";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import RobinsonLayout from "../components/layouts/RobinsonLayout";
+import { StaticImage } from "gatsby-plugin-image";
 
 const RobinsonMayBall = () => {
   return (
@@ -15,7 +16,12 @@ const RobinsonMayBall = () => {
       <div className="portfolio">
         <RobinsonLayout />
       </div>
-
+      <div className="portfolio">
+        <StaticImage
+          src="../../images/tags/canoneos5d/mayweek/robinson/robinson0000.jpg"
+          alt="Robinson Survivors' Photo"
+        />
+      </div>
       <div className="text">
         <h1 id="contact">More Photos</h1>
         <p>

@@ -80,6 +80,11 @@ export default function RobinsonLayout() {
             src="../../../images/tags/canoneos5d/mayweek/robinson/robinson9529.jpg"
             alt="Robinson 9529"
           />
+          {/* <StaticImage
+            className="staticimage"
+            src="../../../images/tags/canoneos5d/mayweek/robinson/robinson9348.jpg"
+            alt="Robinson 9348"
+          /> */}
         </div>
 
         <div className="column">
