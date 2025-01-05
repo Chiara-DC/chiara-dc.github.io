@@ -53,6 +53,24 @@ p {
   line-height: 150%;
 }
 
+.button {
+  /* border: none; */
+  border: 2px solid;
+  border-color: #73818c;
+  /* background-color: #73818c; */
+  /* background-color: #feb729; */
+  width: 45%;
+  padding: 12px;
+  margin: 8px;
+  text-align: center;
+  display: inline-block;
+}
+
+.buttontext {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
 .email {
   padding: 0px;
   color: #73818c;
