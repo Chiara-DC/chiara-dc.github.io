@@ -57,7 +57,7 @@ const Events = () => {
 
       <div className="text">
         <h1 id="photography">Society Events</h1>
-        <a href="/events/newnhamgardenparty" class="button">
+        <a href="/events/caiuslawyers" class="button">
           <div className="buttontext">Caius Lawyers and Alumni</div>
           <StaticImage
             src="../images/tags/canoneos5d/events/caiuslaw24/caiuslaw7510.jpg"
