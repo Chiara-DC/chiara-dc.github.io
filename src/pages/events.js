@@ -49,7 +49,7 @@ const Events = () => {
         <a href="/events/ngp2024" class="button">
           <div className="buttontext">Newnham Garden Party 2024</div>
           <StaticImage
-            src="../images/tags/canoneos5d/mayweek/newnham/newnham0921.jpg"
+            src="../images/tags/canoneos5d/mayweek/newnham2024/newnham0921.jpg"
             alt="Newnham Garden Party"
           />
         </a>
