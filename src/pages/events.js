@@ -16,7 +16,7 @@ const Events = () => {
             Robinson May Ball
           </a>{" "}
           and{" "}
-          <a className="email" href="/events/newnhamgardenparty">
+          <a className="email" href="/events/ngp2024">
             Newnham Garden Party
           </a>
           , as well as society and college events. Having been an enthusiastic
@@ -39,18 +39,25 @@ const Events = () => {
       </div>
 
       <div className="portfolio">
+        <a href="/events/downingvip" class="button">
+          <div className="buttontext">Downing May Ball VIP Reception</div>
+          <StaticImage
+            src="../images/tags/canoneos5d/mayweek/downing/downingvip3750.jpg"
+            alt="Downing May Ball VIP Reception"
+          />
+        </a>
+        <a href="/events/ngp2024" class="button">
+          <div className="buttontext">Newnham Garden Party 2024</div>
+          <StaticImage
+            src="../images/tags/canoneos5d/mayweek/newnham/newnham0921.jpg"
+            alt="Newnham Garden Party"
+          />
+        </a>
         <a href="/events/robinsonmayball" class="button">
           <div className="buttontext">Robinson May Ball 2024</div>
           <StaticImage
             src="../images/tags/canoneos5d/mayweek/robinson/robinson0000 copy.jpg"
             alt="Robinson May Ball"
-          />
-        </a>
-        <a href="/events/newnhamgardenparty" class="button">
-          <div className="buttontext">Newnham Garden Party 2024</div>
-          <StaticImage
-            src="../images/tags/canoneos5d/mayweek/newnham/newnham0921.jpg"
-            alt="Newnham Garden Party"
           />
         </a>
       </div>
@@ -62,6 +69,13 @@ const Events = () => {
           <StaticImage
             src="../images/tags/canoneos5d/events/caiuslaw24/caiuslaw7510.jpg"
             alt="Caius Lawyers and Alumni"
+          />
+        </a>
+        <a href="/events/christshalfwayhall" class="button">
+          <div className="buttontext">Christ's Halfway Hall</div>
+          <StaticImage
+            src="../images/portfolio/halfwayhall3.jpg"
+            alt="Christ's Halfway Hall"
           />
         </a>
       </div>

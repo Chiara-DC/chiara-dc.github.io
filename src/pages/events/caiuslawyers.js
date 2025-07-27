@@ -2,7 +2,6 @@ import * as React from "react";
 import "../styles/index.css";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import NewnhamLayout from "../components/layouts/NewnhamLayout";
 import CaiusLawLayout from "../components/layouts/CaiusLawLayout";
 
 const CaiusLawyers = () => {
