@@ -19,14 +19,10 @@ const DowningVIP = () => {
       <div className="text">
         <h1 id="contact">More Photos</h1>
         <p>
-          General Downing May Ball photos can be found{" "}
-          <a classname="email" href="/events/dmb2025">
-            here
-          </a>{" "}
-          or in this
+          General Downing May Ball photos (all 900+) can be found in this
           <a
             className="email"
-            href="https://drive.google.com/drive/folders/1JN1dJG_a9k23n5dC_Rrh1WYE_d72MU4i?usp=sharing"
+            href="https://drive.google.com/drive/folders/1MgAA9dxTalBjeD9wfM3fKKZnZmfHqILg?usp=sharing"
           >
             {""} Google Drive folder!
           </a>
