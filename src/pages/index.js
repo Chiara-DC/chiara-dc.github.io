@@ -3,6 +3,7 @@ import "./styles/index.css";
 import Navbar from "./components/Navbar";
 import Main from "./components/layouts/MainLayout";
 import Footer from "./components/Footer";
+import { StaticImage } from "gatsby-plugin-image";
 
 const IndexPage = () => {
   return (
@@ -16,14 +17,20 @@ const IndexPage = () => {
           alt="Chiara DC"
           className="svgimage"
         /> */}
-        <img
+        <StaticImage
+          className="svgimage"
+          src="../images/chiara.png"
+          alt="Chiara DC"
+          width="300"
+          height="300"
+        />
+        {/* <img
           src="https://www.dropbox.com/scl/fi/lwvyh72u8hd2t9b40wmq8/chiara.png?rlkey=fmf1rrvaj3wwepypxv9ikzcj5&raw=1"
           width="300"
           height="300"
           alt="Chiara DC"
           className="svgimage"
-        />
-
+        /> */}
         <div className="title">
           <h1 className="name">Chiara DC</h1>
           <h2 className="">Scientist, developer, and photographer</h2>
@@ -54,10 +61,14 @@ const IndexPage = () => {
             Robinson May Ball
           </a>{" "}
           and{" "}
-          <a className="email" href="/events/newnhamgardenparty">
+          <a className="email" href="/events/ngp2024">
             Newnham Garden Party
           </a>
-          .
+          . See more examples of my work
+          <a className="email" href="/events/">
+            {" "}
+            here!
+          </a>
         </p>
         <p>
           Email me at{" "}
