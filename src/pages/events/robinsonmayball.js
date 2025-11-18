@@ -18,7 +18,7 @@ const RobinsonMayBall = () => {
       </div>
       <div className="portfolio">
         <StaticImage
-          src="../../images/tags/canoneos5d/mayweek/robinson/robinson0000.jpg"
+          src="../../images/events/mayweek/robinson2024/robinson0000.jpg"
           alt="Robinson Survivors' Photo"
         />
       </div>

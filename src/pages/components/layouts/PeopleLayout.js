@@ -9,17 +9,17 @@ export default function PeopleLayout() {
         <div className="column">
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity1.jpg"
+            src="../../../images/photoshoots/varsity1.jpg"
             alt="Varsity 1"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity4.jpg"
+            src="../../../images/photoshoots/varsity4.jpg"
             alt="Varsity 4"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity7.jpg"
+            src="../../../images/photoshoots/varsity7.jpg"
             alt="Varsity 7"
           />
           <StaticImage
@@ -29,12 +29,12 @@ export default function PeopleLayout() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity10.jpg"
+            src="../../../images/photoshoots/varsity10.jpg"
             alt="Varsity 10"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity11.jpg"
+            src="../../../images/photoshoots/varsity11.jpg"
             alt="Varsity 11"
           />
           <StaticImage
@@ -52,12 +52,12 @@ export default function PeopleLayout() {
         <div className="column">
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity2.jpg"
+            src="../../../images/photoshoots/varsity2.jpg"
             alt="Varsity 2"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity5.jpg"
+            src="../../../images/photoshoots/varsity5.jpg"
             alt="Varsity 5"
           />
           <StaticImage
@@ -68,12 +68,12 @@ export default function PeopleLayout() {
 
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity8.jpg"
+            src="../../../images/photoshoots/varsity8.jpg"
             alt="Varsity 8"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity12.jpg"
+            src="../../../images/photoshoots/varsity12.jpg"
             alt="Varsity 12"
           />
           <StaticImage
@@ -91,13 +91,13 @@ export default function PeopleLayout() {
         <div className="column">
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity3.jpg"
+            src="../../../images/photoshoots/varsity3.jpg"
             alt="Varsity 3"
           />
 
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity6.jpg"
+            src="../../../images/photoshoots/varsity6.jpg"
             alt="Varsity 6"
           />
           <StaticImage
@@ -107,12 +107,12 @@ export default function PeopleLayout() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity9.jpg"
+            src="../../../images/photoshoots/varsity9.jpg"
             alt="Varsity 9"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity13.jpg"
+            src="../../../images/photoshoots/varsity13.jpg"
             alt="Varsity 13"
           />
           <StaticImage
@@ -131,17 +131,17 @@ export default function PeopleLayout() {
         <div className="twocolcolumn">
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity1.jpg"
+            src="../../../images/photoshoots/varsity1.jpg"
             alt="Varsity 1"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity4.jpg"
+            src="../../../images/photoshoots/varsity4.jpg"
             alt="Varsity 4"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity7.jpg"
+            src="../../../images/photoshoots/varsity7.jpg"
             alt="Varsity 7"
           />
           <StaticImage
@@ -151,17 +151,17 @@ export default function PeopleLayout() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity6.jpg"
+            src="../../../images/photoshoots/varsity6.jpg"
             alt="Varsity 6"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity10.jpg"
+            src="../../../images/photoshoots/varsity10.jpg"
             alt="Varsity 10"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity11.jpg"
+            src="../../../images/photoshoots/varsity11.jpg"
             alt="Varsity 11"
           />
           <StaticImage
@@ -176,12 +176,12 @@ export default function PeopleLayout() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity8.jpg"
+            src="../../../images/photoshoots/varsity8.jpg"
             alt="Varsity 8"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity12.jpg"
+            src="../../../images/photoshoots/varsity12.jpg"
             alt="Varsity 12"
           />
         </div>
@@ -189,12 +189,12 @@ export default function PeopleLayout() {
         <div className="twocolcolumn">
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity2.jpg"
+            src="../../../images/photoshoots/varsity2.jpg"
             alt="Varsity 2"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity5.jpg"
+            src="../../../images/photoshoots/varsity5.jpg"
             alt="Varsity 5"
           />
           <StaticImage
@@ -204,7 +204,7 @@ export default function PeopleLayout() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity3.jpg"
+            src="../../../images/photoshoots/varsity3.jpg"
             alt="Varsity 3"
           />
           <StaticImage
@@ -214,12 +214,12 @@ export default function PeopleLayout() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity9.jpg"
+            src="../../../images/photoshoots/varsity9.jpg"
             alt="Varsity 9"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/portfolio/varsity13.jpg"
+            src="../../../images/photoshoots/varsity13.jpg"
             alt="Varsity 13"
           />
           <StaticImage

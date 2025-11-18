@@ -81,14 +81,14 @@ const Events = () => {
         <a href="/events/caiuslawyers" class="button">
           <div className="buttontext">Caius Lawyers and Alumni</div>
           <StaticImage
-            src="../images/tags/canoneos5d/events/caiuslaw24/caiuslaw7510.jpg"
+            src="../images/events/misc/caiuslaw2024/caiuslaw7510.jpg"
             alt="Caius Lawyers and Alumni"
           />
         </a>
         <a href="/events/christshalfwayhall" class="button">
           <div className="buttontext">Christ's Halfway Hall</div>
           <StaticImage
-            src="../images/portfolio/halfwayhall3.jpg"
+            src="../images/events/misc/halfwayhall2024/IMG_HalfWayHall-123.jpg"
             alt="Christ's Halfway Hall"
           />
         </a>

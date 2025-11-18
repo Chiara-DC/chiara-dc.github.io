@@ -11,7 +11,6 @@ export default function Varsity() {
             <StaticImage
               className="staticimage"
               src="../../../images/varsity/varsitykettlesyard.PNG"
-              // src="../../../images/tags/sonya200/cambridge/palestinianembroiderykettlesyard.jpeg"
               alt="Palestinian Embroidery Exhibit, Kettle's Yard"
             />
           </a>
@@ -43,7 +42,6 @@ export default function Varsity() {
             <StaticImage
               className="staticimage"
               src="../../../images/varsity/varsityturing.PNG"
-              // src="../../../images/tags/canoneos5d/varsity/turingstatue.jpg"
               alt="Turing Statue, King's College"
             />
           </a>
@@ -66,7 +64,6 @@ export default function Varsity() {
           <a href="https://www.varsity.co.uk/sport/27495">
             <StaticImage
               className="staticimage"
-              // src="../../../images/tags/canoneos5d/varsity/netballcuppers2024/IMG_5167-Enhanced-NR.jpg"
               src="../../../images/varsity/varsitynetballcuppers.PNG"
               alt="Netball Cuppers Final"
             />
@@ -94,7 +91,6 @@ export default function Varsity() {
             <StaticImage
               className="staticimage"
               src="../../../images/varsity/varsitykettlesyard.PNG"
-              // src="../../../images/tags/sonya200/cambridge/palestinianembroiderykettlesyard.jpeg"
               alt="Palestinian Embroidery Exhibit, Kettle's Yard"
             />
           </a>
@@ -102,7 +98,6 @@ export default function Varsity() {
             <StaticImage
               className="staticimage"
               src="../../../images/varsity/varsityturing.PNG"
-              // src="../../../images/tags/canoneos5d/varsity/turingstatue.jpg"
               alt="Turing Statue, King's College"
             />
           </a>
@@ -134,7 +129,6 @@ export default function Varsity() {
           <a href="https://www.varsity.co.uk/sport/27495">
             <StaticImage
               className="staticimage"
-              // src="../../../images/tags/canoneos5d/varsity/netballcuppers2024/IMG_5167-Enhanced-NR.jpg"
               src="../../../images/varsity/varsitynetballcuppers.PNG"
               alt="Netball Cuppers Final"
             />
