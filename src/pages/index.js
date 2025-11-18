@@ -10,13 +10,6 @@ const IndexPage = () => {
     <>
       <Navbar />
       <div className="home">
-        {/* <img
-          src="https://www.dropbox.com/scl/fi/i7s3jzdhov0fnqjc9p3hd/chiara.svg?rlkey=8lv4opvcrvl7t140fk9ahan1y&raw=1"
-          width="400"
-          height="400"
-          alt="Chiara DC"
-          className="svgimage"
-        /> */}
         <StaticImage
           className="svgimage"
           src="../images/chiara.png"
@@ -24,13 +17,6 @@ const IndexPage = () => {
           width="300"
           height="300"
         />
-        {/* <img
-          src="https://www.dropbox.com/scl/fi/lwvyh72u8hd2t9b40wmq8/chiara.png?rlkey=fmf1rrvaj3wwepypxv9ikzcj5&raw=1"
-          width="300"
-          height="300"
-          alt="Chiara DC"
-          className="svgimage"
-        /> */}
         <div className="title">
           <h1 className="name">Chiara DC</h1>
           <h2 className="">Scientist, developer, and photographer</h2>

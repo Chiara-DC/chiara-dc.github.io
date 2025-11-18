@@ -39,24 +39,38 @@ const Events = () => {
       </div>
 
       <div className="portfolio">
+        <a href="/events/ngp2024" class="button">
+          <div className="buttontext">Newnham Garden Party 2025</div>
+          <StaticImage
+            src="../images/events/mayweek/newnham2025/newnham2932.jpg"
+            alt="Newnham Garden Party"
+          />
+        </a>
+        <a href="/events/dmb2025" class="button">
+          <div className="buttontext">Downing May Ball</div>
+          <StaticImage
+            src="../images/events/mayweek/downing2025/downing4488.jpg"
+            alt="Downing May Ball Fireworks"
+          />
+        </a>
         <a href="/events/downingvip" class="button">
           <div className="buttontext">Downing May Ball VIP Reception</div>
           <StaticImage
-            src="../images/tags/canoneos5d/mayweek/downing/downingvip3750.jpg"
+            src="../images/events/mayweek/downing2025/downingvip/downingvip3750.jpg"
             alt="Downing May Ball VIP Reception"
           />
         </a>
         <a href="/events/ngp2024" class="button">
           <div className="buttontext">Newnham Garden Party 2024</div>
           <StaticImage
-            src="../images/tags/canoneos5d/mayweek/newnham2024/newnham0921.jpg"
+            src="../images/events/mayweek/newnham2024/newnham0921.jpg"
             alt="Newnham Garden Party"
           />
         </a>
         <a href="/events/robinsonmayball" class="button">
           <div className="buttontext">Robinson May Ball 2024</div>
           <StaticImage
-            src="../images/tags/canoneos5d/mayweek/robinson/robinson0000 copy.jpg"
+            src="../images/events/mayweek/robinson2024/robinson0000 copy.jpg"
             alt="Robinson May Ball"
           />
         </a>

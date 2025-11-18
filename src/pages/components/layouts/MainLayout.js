@@ -75,7 +75,7 @@ export default function Main() {
 
           <StaticImage
             className="staticimage"
-            src="../../../images/tags/canoneos5d/cambridge/totheriver.jpg"
+            src="../../../images/city/cambridge/totheriver.jpg"
             alt="To the River, near Trinity Hall"
           />
           <StaticImage
@@ -306,7 +306,7 @@ export default function Main() {
 
           <StaticImage
             className="staticimage"
-            src="../../../images/tags/canoneos5d/cambridge/totheriver.jpg"
+            src="../../../images/city/cambridge/totheriver.jpg"
             alt="To the River, near Trinity Hall"
           />
           <StaticImage
