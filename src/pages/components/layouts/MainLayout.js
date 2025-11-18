@@ -19,28 +19,23 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/Venice sunset.jpeg"
-            alt="Venice Sunset"
+            src="../../../images/photography/architecture/stainedglasspipeorgansagradafamilia.jpeg"
+            alt="Stained glass windows and pipe organ, La Sagrada Familia, Barcelona"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/newyork/chinatown.jpeg"
-            alt="Chinatown, New York City"
+            src="../../../images/photoshoots/varsity4.jpg"
+            alt="Model, Varsity May Week Photoshoot"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/cambridge/sideviewkingschapel.jpeg"
-            alt="Side view of King's College Chapel"
+            src="../../../images/events/mayweek/newnham2024/newnham0895.jpg"
+            alt="Newnham Garden Party 2024"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/nature/twogoldfishswimming.jpeg"
-            alt="Two goldfish swimming"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/nature/purplejellyfish.jpeg"
-            alt="Purple jellyfish"
+            src="../../../images/photography/london/christmasatkew/lighthouses.jpg"
+            alt="Light houses, Christmas at Kew"
           />
           <StaticImage
             className="staticimage"
@@ -49,39 +44,28 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/architecture/stainedglasspipeorgansagradafamilia.jpeg"
-            alt="Stained glass windows and pipe organ, La Sagrada Familia, Barcelona"
+            src="../../../images/photography/nature/flowersatjohns.jpeg"
+            alt="Flowers at St John's College, Cambridge"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/union/hacksapplauding.jpg"
-            alt="Union hacks applauding, Cambridge Union"
+            src="../../../images/photography/london/riverthameslondon.jpeg"
+            alt="River Thames, London"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/architecture/quintodaregaleira.jpg"
-            alt="Quinto da Regaleira, Portugal"
+            src="../../../images/photography/cambridge/postbox.jpg"
+            alt="City Centre postbox"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/vintagemetalsigns.jpg"
-            alt="Vintage metal signs, Amsterdam"
+            src="../../../images/photography/cambridge/kings.jpg"
+            alt="King's at Sunset"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/london/christmasatkew/lighthouses.jpg"
-            alt="Light houses, Christmas at Kew"
-          />
-
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/cambridge/totheriver.jpg"
-            alt="To the River, near Trinity Hall"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/cambridge/sunsetfromtypewriter.jpg"
-            alt="Sunset from the Typewriter, Christ's College"
+            src="../../../images/events/mayweek/downing2025/downingvip/downingvip3764.jpg"
+            alt="Downing May Ball reception"
           />
         </div>
 
@@ -103,13 +87,24 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/cambridge/garretthostelbridge.jpg"
-            alt="View from Garrett Hostel Bridge"
+            src="../../../images/photoshoots/varsity7.jpg"
+            alt="Model, Varsity May Week Photoshoot"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/newnham2024/newnham0599.jpg"
+            alt="Newnham Garden Party 2024"
           />
           <StaticImage
             className="staticimage"
             src="../../../images/photography/cambridge/botanicalgardenschristmaslights.jpeg"
             alt="Christmas Lights, Cambridge Botanical Gardens"
+          />
+
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/downing2025/downing4719.jpg"
+            alt="Downing May Ball Fireworks"
           />
           <StaticImage
             className="staticimage"
@@ -118,43 +113,23 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/cambridge/johnsfireworks.jpg"
-            alt="Fireworks over the River Cam, St John's May Ball"
+            src="../../../images/photography/architecture/quintodaregaleira.jpg"
+            alt="Quinto da Regaleira, Portugal"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/cambridge/palestinianembroiderykettlesyard.jpeg"
-            alt="Palestinian Embroidery Exhibit, Kettle's Yard"
+            src="../../../images/photography/cambridge/sideviewkingschapel.jpeg"
+            alt="Side view of King's College Chapel"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/nature/flowersatjohns.jpeg"
-            alt="Flowers at St John's College, Cambridge"
+            src="../../../images/photography/cambridge/wisteria.jpg"
+            alt="Christ's First Court Wisteria"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/union/speakerheadshot.jpg"
-            alt="Headshot of a speaker, Cambridge Union"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/union/pointofinformation.jpg"
-            alt="Point of information, Cambridge Union"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/architecture/palaciodapena.jpg"
-            alt="Palacio da Pena, Portugal"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/london/christmasatkew/lightflower.jpg"
-            alt="Light flower sculpture, Christmas at Kew"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/london/christmasatkew/whiteflower.jpg"
-            alt="White flower sculpture, Christmas at Kew"
+            src="../../../images/events/mayweek/downing2025/downingvip/downingvip3734.jpg"
+            alt="Downing May Ball reception"
           />
         </div>
 
@@ -171,68 +146,59 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/sitgesharbour.jpeg"
-            alt="Boats, Sitges Harbour"
+            src="../../../images/photography/newyork/chinatown.jpeg"
+            alt="Chinatown, New York City"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/cambridge/westhubcambridge.jpeg"
-            alt="West Hub, Cambridge"
+            src="../../../images/photoshoots/varsity1.jpg"
+            alt="Model, Varsity May Week Photoshoot"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/city/cambridge/christs/sunsetoverchrists.jpeg"
-            alt="Sunset over Christ's College"
+            src="../../../images/photoshoots/varsity11.jpg"
+            alt="Model, Varsity May Week Photoshoot"
+          />
+
+          <StaticImage
+            className="staticimage"
+            src="../../../images/photography/london/christmasatkew/whiteflower.jpg"
+            alt="White flower sculpture, Christmas at Kew"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/photography/london/christmasatkew/lightflower.jpg"
+            alt="Light flower sculpture, Christmas at Kew"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/robinson2024/robinson9404.jpg"
+            alt="Robinson May Ball, Band"
           />
           <StaticImage
             className="staticimage"
             src="../../../images/photography/nature/goldfishinaquarium.jpeg"
-            alt="Goldfish in aquarium, Lisbon"
+            alt="Goldfish in aquarium, Portugal"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/nature/bluefishinaquarium.jpeg"
-            alt="More fish (blue ones), Lisbon"
+            src="../../../images/photography/cambridge/christs/darwin2.jpg"
+            alt="Young Darwin, Christ's College"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/cambridge/fitzmuseumdome.jpeg"
-            alt="Fitzwilliam Museum Dome, Cambridge"
+            src="../../../images/photography/architecture/palaciodapena.jpg"
+            alt="Palacio da Pena, Portugal"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/london/riverthameslondon.jpeg"
-            alt="River Thames, London"
+            src="../../../images/photography/cambridge/totheriver.jpg"
+            alt="To the River, near Trinity Hall"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/union/studentspeaker.jpg"
-            alt="Student speaker, Cambridge Union, holding notebook"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/union/speakergesturing.jpg"
-            alt="Speaker gesturing, Cambridge Union"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/nature/boatonsea.jpg"
-            alt="Sailing boat on the Mediterranean, Portugal"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/london/putneybridgelamp.jpg"
-            alt="Lamp, Putney Bridge"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/london/christmasatkew/lightshow.jpg"
-            alt="Sky light Show, Christmas at Kew"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/cambridge/magdalenepunts.jpg"
-            alt="Punts near Magdalene College"
+            src="../../../images/events/mayweek/downing2025/downingvip/downingvip3801.jpg"
+            alt="Downing May Ball reception"
           />
         </div>
       </div>
@@ -250,33 +216,8 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/Venice sunset.jpeg"
-            alt="Venice Sunset"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/newyork/chinatown.jpeg"
-            alt="Chinatown, New York City"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/cambridge/sideviewkingschapel.jpeg"
-            alt="Side view of King's College Chapel"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/nature/twogoldfishswimming.jpeg"
-            alt="Two goldfish swimming"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/nature/purplejellyfish.jpeg"
-            alt="Purple jellyfish"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/london/christmasatkew/purplespirallight.jpeg"
-            alt="Purple spiral light, Christmas at Kew"
+            src="../../../images/photography/newyork/viewwithbinoculars.jpeg"
+            alt="View with Binoculars"
           />
           <StaticImage
             className="staticimage"
@@ -285,72 +226,72 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/union/hacksapplauding.jpg"
-            alt="Union hacks applauding, Cambridge Union"
+            src="../../../images/photoshoots/varsity4.jpg"
+            alt="Model, Varsity May Week Photoshoot"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/architecture/quintodaregaleira.jpg"
-            alt="Quinto da Regaleira, Portugal"
+            src="../../../images/photoshoots/varsity1.jpg"
+            alt="Model, Varsity May Week Photoshoot"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/vintagemetalsigns.jpg"
-            alt="Vintage metal signs, Amsterdam"
+            src="../../../images/events/mayweek/newnham2024/newnham0599.jpg"
+            alt="Newnham Garden Party 2024"
           />
+
           <StaticImage
             className="staticimage"
             src="../../../images/photography/london/christmasatkew/lighthouses.jpg"
             alt="Light houses, Christmas at Kew"
           />
-
           <StaticImage
             className="staticimage"
-            src="../../../images/cambridge/totheriver.jpg"
-            alt="To the River, near Trinity Hall"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/cambridge/sunsetfromtypewriter.jpg"
-            alt="Sunset from the Typewriter, Christ's College"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/newyork/viewwithbinoculars.jpeg"
-            alt="View with Binoculars"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/newyork/highlineprideflag.jpeg"
-            alt="Pride Flag from High Line"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/Street with car.jpeg"
-            alt="Car in St Petersburg"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/cambridge/garretthostelbridge.jpg"
-            alt="View from Garrett Hostel Bridge"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/cambridge/botanicalgardenschristmaslights.jpeg"
-            alt="Christmas Lights, Cambridge Botanical Gardens"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/nature/wasponflower.jpeg"
-            alt="Wasp on flower, Cambridge"
+            src="../../../images/photography/london/christmasatkew/purplespirallight.jpeg"
+            alt="Purple spiral light, Christmas at Kew"
           />
           <StaticImage
             className="staticimage"
             src="../../../images/photography/london/christmasatkew/whiteflower.jpg"
             alt="White flower sculpture, Christmas at Kew"
           />
-        </div>
+          <StaticImage
+            className="staticimage"
+            src="../../../images/photography/nature/goldfishinaquarium.jpeg"
+            alt="Goldfish in aquarium, Portugal"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/photography/cambridge/christs/darwin2.jpg"
+            alt="Young Darwin, Christ's College"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/photography/nature/flowersatjohns.jpeg"
+            alt="Flowers at St John's College, Cambridge"
+          />
 
+          <StaticImage
+            className="staticimage"
+            src="../../../images/photography/cambridge/postbox.jpg"
+            alt="City Centre postbox"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/photography/cambridge/totheriver.jpg"
+            alt="To the River, near Trinity Hall"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/photography/cambridge/kings.jpg"
+            alt="King's at Sunset"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/downing2025/downingvip/downingvip3764.jpg"
+            alt="Downing May Ball reception"
+          />
+        </div>
         <div className="twocolcolumn">
           <StaticImage
             className="staticimage"
@@ -364,94 +305,66 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/sitgesharbour.jpeg"
-            alt="Boats, Sitges Harbour"
+            src="../../../images/photography/newyork/chinatown.jpeg"
+            alt="Chinatown, New York City"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/cambridge/westhubcambridge.jpeg"
-            alt="West Hub, Cambridge"
+            src="../../../images/photography/Street with car.jpeg"
+            alt="Car in St Petersburg"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/city/cambridge/christs/sunsetoverchrists.jpeg"
-            alt="Sunset over Christ's College"
+            src="../../../images/photography/newyork/highlineprideflag.jpeg"
+            alt="Pride Flag from High Line"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/nature/goldfishinaquarium.jpeg"
-            alt="Goldfish in aquarium, Lisbon"
+            src="../../../images/photoshoots/varsity7.jpg"
+            alt="Model, Varsity May Week Photoshoot"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/nature/bluefishinaquarium.jpeg"
-            alt="More fish (blue ones), Lisbon"
+            src="../../../images/photoshoots/varsity11.jpg"
+            alt="Model, Varsity May Week Photoshoot"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/cambridge/fitzmuseumdome.jpeg"
-            alt="Fitzwilliam Museum Dome, Cambridge"
+            src="../../../images/events/mayweek/newnham2024/newnham0895.jpg"
+            alt="Newnham Garden Party 2024"
+          />
+
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/downing2025/downing4719.jpg"
+            alt="Downing May Ball Fireworks"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/london/riverthameslondon.jpeg"
-            alt="River Thames, London"
+            src="../../../images/photography/london/christmasatkew/lightflower.jpg"
+            alt="Light flower sculpture, Christmas at Kew"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/cambridge/johnsfireworks.jpg"
-            alt="Fireworks over the River Cam, St John's May Ball"
+            src="../../../images/events/mayweek/robinson2024/robinson9404.jpg"
+            alt="Robinson May Ball, Band"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/union/studentspeaker.jpg"
-            alt="Student speaker, Cambridge Union, holding notebook"
+            src="../../../images/photography/nature/wasponflower.jpeg"
+            alt="Wasp on flower, Cambridge"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/union/speakergesturing.jpg"
-            alt="Speaker gesturing, Cambridge Union"
+            src="../../../images/photography/architecture/quintodaregaleira.jpg"
+            alt="Quinto da Regaleira, Portugal"
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/nature/boatonsea.jpg"
-            alt="Sailing boat on the Mediterranean, Portugal"
+            src="../../../images/photography/cambridge/sideviewkingschapel.jpeg"
+            alt="Side view of King's College Chapel"
           />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/london/putneybridgelamp.jpg"
-            alt="Lamp, Putney Bridge"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/london/christmasatkew/lightshow.jpg"
-            alt="Sky light Show, Christmas at Kew"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/cambridge/magdalenepunts.jpg"
-            alt="Punts near Magdalene College"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/cambridge/palestinianembroiderykettlesyard.jpeg"
-            alt="Palestinian Embroidery Exhibit, Kettle's Yard"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/nature/flowersatjohns.jpeg"
-            alt="Flowers at St John's College, Cambridge"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/union/speakerheadshot.jpg"
-            alt="Headshot of a speaker, Cambridge Union"
-          />
-          <StaticImage
-            className="staticimage"
-            src="../../../images/photography/union/pointofinformation.jpg"
-            alt="Point of information, Cambridge Union"
-          />
+
           <StaticImage
             className="staticimage"
             src="../../../images/photography/architecture/palaciodapena.jpg"
@@ -459,8 +372,29 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
-            src="../../../images/photography/london/christmasatkew/lightflower.jpg"
-            alt="Light flower sculpture, Christmas at Kew"
+            src="../../../images/photography/london/riverthameslondon.jpeg"
+            alt="River Thames, London"
+          />
+
+          <StaticImage
+            className="staticimage"
+            src="../../../images/photography/cambridge/wisteria.jpg"
+            alt="Christ's First Court Wisteria"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/downing2025/downingvip/downingvip3801.jpg"
+            alt="Downing May Ball reception"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/downing2025/downingvip/downingvip3734.jpg"
+            alt="Downing May Ball reception"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/robinson2024/robinson8144.jpg"
+            alt="Robinson May Ball entrance"
           />
         </div>
       </div>
