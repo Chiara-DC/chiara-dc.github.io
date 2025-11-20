@@ -39,20 +39,21 @@ const Events = () => {
       </div>
 
       <div className="portfolio">
-        <a href="/events/ngp2024" class="button">
+        <a href="/events/ngp2025" class="button">
           <div className="buttontext">Newnham Garden Party 2025</div>
           <StaticImage
             src="../images/events/mayweek/newnham2025/newnham2932.jpg"
             alt="Newnham Garden Party"
           />
         </a>
-        <a href="/events/dmb2025" class="button">
+        {/* <a href="/events/dmb2025" class="button">
           <div className="buttontext">Downing May Ball</div>
           <StaticImage
             src="../images/events/mayweek/downing2025/downing4488.jpg"
             alt="Downing May Ball Fireworks"
           />
-        </a>
+        </a>{" "}
+        */}
         <a href="/events/downingvip" class="button">
           <div className="buttontext">Downing May Ball VIP Reception</div>
           <StaticImage
