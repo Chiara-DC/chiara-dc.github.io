@@ -35,4 +35,4 @@ const DowningMayBall = () => {
 
 export default DowningMayBall;
 
-export const Head = () => <title>Chiara DC</title>;
+export const Head = () => <title>Chiara DC - Downing May Ball</title>;

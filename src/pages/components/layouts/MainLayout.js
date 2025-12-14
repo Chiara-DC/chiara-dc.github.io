@@ -44,6 +44,11 @@ export default function Main() {
           />
           <StaticImage
             className="staticimage"
+            src="../../../images/events/mayweek/robinson2024/robinson8686.jpg"
+            alt="Robinson May Ball Rave Cave"
+          />
+          <StaticImage
+            className="staticimage"
             src="../../../images/photography/nature/flowersatjohns.jpeg"
             alt="Flowers at St John's College, Cambridge"
           />
@@ -100,11 +105,15 @@ export default function Main() {
             src="../../../images/photography/cambridge/botanicalgardenschristmaslights.jpeg"
             alt="Christmas Lights, Cambridge Botanical Gardens"
           />
-
           <StaticImage
             className="staticimage"
             src="../../../images/events/mayweek/downing2025/downing4719.jpg"
             alt="Downing May Ball Fireworks"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/robinson2024/robinson8826.jpg"
+            alt="Robinson Rave Cave 2"
           />
           <StaticImage
             className="staticimage"
@@ -130,6 +139,11 @@ export default function Main() {
             className="staticimage"
             src="../../../images/events/mayweek/downing2025/downingvip/downingvip3734.jpg"
             alt="Downing May Ball reception"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/robinson2024/robinson8144.jpg"
+            alt="Robinson May Ball entrance"
           />
         </div>
 
@@ -165,10 +179,16 @@ export default function Main() {
             src="../../../images/photography/london/christmasatkew/whiteflower.jpg"
             alt="White flower sculpture, Christmas at Kew"
           />
+
           <StaticImage
             className="staticimage"
             src="../../../images/photography/london/christmasatkew/lightflower.jpg"
             alt="Light flower sculpture, Christmas at Kew"
+          />
+          <StaticImage
+            className="staticimage"
+            src="../../../images/events/mayweek/robinson2024/robinson9871.jpg"
+            alt="Downing May Ball reception"
           />
           <StaticImage
             className="staticimage"

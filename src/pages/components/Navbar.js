@@ -16,8 +16,8 @@ export default function Navbar() {
           Photography
         </a>
 
-        <a className="navtext" href="/#contact">
-          Contact
+        <a className="navtext" href="/events">
+          Events
         </a>
       </nav>
     </>

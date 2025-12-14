@@ -39,6 +39,13 @@ const Events = () => {
       </div>
 
       <div className="portfolio">
+        <a href="/events/dmb2025" class="button">
+          <div className="buttontext">Downing May Ball 2025</div>
+          <StaticImage
+            src="../images/events/mayweek/downing2025/downing4338.jpg"
+            alt="Downing May Ball"
+          />
+        </a>{" "}
         <a href="/events/ngp2025" class="button">
           <div className="buttontext">Newnham Garden Party 2025</div>
           <StaticImage
@@ -46,14 +53,6 @@ const Events = () => {
             alt="Newnham Garden Party"
           />
         </a>
-        {/* <a href="/events/dmb2025" class="button">
-          <div className="buttontext">Downing May Ball</div>
-          <StaticImage
-            src="../images/events/mayweek/downing2025/downing4488.jpg"
-            alt="Downing May Ball Fireworks"
-          />
-        </a>{" "}
-        */}
         <a href="/events/downingvip" class="button">
           <div className="buttontext">Downing May Ball VIP Reception</div>
           <StaticImage
@@ -118,4 +117,4 @@ const Events = () => {
 
 export default Events;
 
-export const Head = () => <title>Chiara DC</title>;
+export const Head = () => <title>Chiara DC - Events</title>;
