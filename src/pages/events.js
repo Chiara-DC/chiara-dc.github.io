@@ -39,6 +39,13 @@ const Events = () => {
       </div>
 
       <div className="portfolio">
+        <a href="/events/selwynsnowball" class="button">
+          <div className="buttontext">Selwyn Snow Ball 2025</div>
+          <StaticImage
+            src="../images/events/mayweek/selwyn2025/IMG_6047.jpg"
+            alt="Selwyn Snow Ball"
+          />
+        </a>{" "}
         <a href="/events/dmb2025" class="button">
           <div className="buttontext">Downing May Ball 2025</div>
           <StaticImage
